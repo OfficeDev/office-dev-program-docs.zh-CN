@@ -2,14 +2,15 @@
 title: Office 365 开发人员计划常见问题解答
 description: 有关 Office 365 开发人员计划的常见问题解答。
 ms.date: 04/16/2018
-ms.openlocfilehash: 53e0f076aeb5d9a08ed1801d71b5dcd656c6fe14
-ms.sourcegitcommit: b7da765007f295d17f23b7d4a638af760ecd3b96
+ms.openlocfilehash: 7d02bed6ba67c2a0eac0db6674848d9e6f39630b
+ms.sourcegitcommit: 3651125e6eebc1d630436a260051eca929f3306b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25670370"
+ms.lasthandoff: 10/27/2018
+ms.locfileid: "25829250"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 开发人员计划常见问题解答
+
 
 以下为有关 Office 365 开发人员计划的常见问题解答。
 
@@ -65,7 +66,7 @@ Microsoft 员工无法注册此项优惠。 但是，所有 Microsoft 全职员�
 
 ### <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>我的订阅将要到期时，我是否可以续订？
 
-目前，我们不能办理现有订阅的续订。 但是，可通过购买每年 $99.00 的特殊选项续订订阅。 订阅将要到期时，将收到续订提醒，包含如何续订订阅的指导说明。
+目前，我们不能办理现有订阅的续订。 但是，可通过购买每用户每年 99.00 美元的特殊选项续订订阅。 订阅将要到期时，将收到续订提醒，包含如何续订订阅的指导说明。
 
 <a name="account-types"> </a>
 
