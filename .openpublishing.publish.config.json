@@ -18,10 +18,12 @@
     }
   ],
   "notification_subscribers": ["mor-oitac-eng@moravia.com"],
- "branches_to_filter": [
+  "sync_notification_subscribers": [],
+  "branches_to_filter": [
     "live",
     "master-sxs"
   ],
+  "git_repository_branch_open_to_public_contributors": "master",
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "continue_with_document_error": true,
@@ -35,5 +37,6 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "targets": {}
 }
