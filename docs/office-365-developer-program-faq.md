@@ -2,12 +2,13 @@
 title: Office 365 开发人员计划常见问题解答
 description: 有关 Office 365 开发人员计划的常见问题解答。
 ms.date: 04/16/2018
-ms.openlocfilehash: 7d02bed6ba67c2a0eac0db6674848d9e6f39630b
-ms.sourcegitcommit: 3651125e6eebc1d630436a260051eca929f3306b
+localization_priority: Priority
+ms.openlocfilehash: d154b87410b30a01d4ed696cfd7c115484ab01a4
+ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2018
-ms.locfileid: "25829250"
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28015133"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 开发人员计划常见问题解答
 
