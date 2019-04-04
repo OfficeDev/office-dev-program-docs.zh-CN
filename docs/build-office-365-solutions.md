@@ -3,12 +3,12 @@ title: 使用开发人员订阅来构建 Office 365 解决方案
 description: 使用 Office 365 开发人员订阅来构建想要的解决方案。
 ms.date: 03/20/2018
 localization_priority: Priority
-ms.openlocfilehash: a42c5cb7c3ba6645e46c36fb22abd5da073fc06c
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: 375514e1bc42742810c4d8a56a59fe24140abb27
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015119"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31041996"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>使用开发人员订阅来构建 Office 365 解决方案
 
@@ -20,23 +20,23 @@ Microsoft Teams 是 Office 365 中一个基于聊天的工作区，它与用户�
 
 以下是如何设置与使用 Microsoft Teams 编码的信息：
 
-1. [准备 Office 365 开发人员订阅](https://docs.microsoft.com/zh-CN/microsoftteams/platform/get-started/get-started-tenant)。
-2. 设置开发环境。 此过程将因您想要构建的应用或服务类型而有所不同。 有关详细信息，请参阅以下内容：
+1. [准备 Office 365 开发人员订阅](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-tenant)。
+2. 设置开发环境。 此过程将因您想要构建的应用或服务类型而有所不同。 有关详细信息，请参阅以下内容之一：
 
-  - [开始在 Microsoft Teams 平台上使用 Node.js ](https://docs.microsoft.com/zh-CN/microsoftteams/platform/get-started/get-started-nodejs)
-  - [开始在 Microsoft Teams 平台上使用 C#/.NET ](https://docs.microsoft.com/zh-CN/microsoftteams/platform/get-started/get-started-dotnet)
+  - [开始在 Microsoft Teams 平台上使用 Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
+  - [开始在 Microsoft Teams 平台上使用 C#/.NET]https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
-可以使用 Microsoft Graph 在 Microsoft 云中与数百万用户的数据交互。 使用 Microsoft Graph 为组织和消费者生成应用，此类应用与所有这些资源、关系以及情报通过单个终结点相连接：https://graph.microsoft.com。
+可以使用 Microsoft Graph 在 Microsoft 云中与数百万用户的数据交互。 使用 Microsoft Graph 为组织和消费者生成应用，此类应用与所有这些资源、关系以及情报通过单个终结点相连接：`https://graph.microsoft.com`。
 
-若要获取设置和使用 Microsoft Graph 编码的信息，请参阅 [开始生成 Microsoft Graph 应用程序](https://developer.microsoft.com/zh-CN/graph/docs/concepts/get-started) 或 Microsoft Graph[快速入门](https://developer.microsoft.com/zh-CN/graph/quick-start)。
+若要获取设置和使用 Microsoft Graph 编码的信息，请参阅 [开始生成 Microsoft Graph 应用程序](https://developer.microsoft.com/zh-CN/graph/get-started) 或 Microsoft Graph[快速入门](https://developer.microsoft.com/zh-CN/graph/quick-start)。
 
 ## <a name="office-add-ins"></a>Office 加载项
 
 可以使用 Office 外接程序平台来生成解决方案，通过解决方案扩展 Office 应用程序，并与 Office 文档中的内容进行交互。通过 Office 外接程序，可以使用熟悉的 Web 技术，例如 HTML、CSS 和 JavaScript 来扩展 Word、Excel、PowerPoint、OneNote，Project 和 Outlook，并与其进行交互。解决方案可以跨多个平台在 Office 中运行，包括 Office for Windows、Office Online、Office for Mac 和 Office for iPad。
 
-若要设置开发环境和创建第一个加载项，请参阅 [Office 加载项快速入门](https://docs.microsoft.com/zh-CN/office/dev/add-ins/)。
+若要设置开发环境和创建第一个加载项，请参阅 [Office 加载项快速入门](https://docs.microsoft.com/office/dev/add-ins/)。
 
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 
@@ -44,22 +44,23 @@ SharePoint Framework (SPFx) 是提供客户端 SharePoint 开发和与 SharePoin
 
 若要完成设置并开始使用 SharePoint FrameWork 编码:
 
-- [设置 Office 365 开发人员订阅](https://docs.microsoft.com/zh-CN/sharepoint/dev/spfx/set-up-your-developer-tenant)
-- [设置开发环境](https://docs.microsoft.com/zh-CN/sharepoint/dev/spfx/set-up-your-development-environment)
+- [设置 Office 365 开发人员订阅](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [设置开发环境](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 
 ## <a name="sharepoint-add-ins"></a>SharePoint 加载项 
 
-SharePoint 加载项为独立式功能，可扩展 SharePoint 网站功能，从而解决明确定义的业务问题。 可以创建两种类型的 SharePoint 外接程序：SharePoint 托管和提供程序托管。 有关详细信息，请参阅 [SharePoint 加载项](https://docs.microsoft.com/zh-CN/sharepoint/dev/sp-add-ins/sharepoint-add-ins)。
+SharePoint 加载项为独立式功能，可扩展 SharePoint 网站功能，从而解决明确定义的业务问题。 可以创建两种类型的 SharePoint 外接程序：SharePoint 托管和提供程序托管。 有关详细信息，请参阅 [SharePoint 加载项](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/sharepoint-add-ins)。
 
 若要完成设置并开始使用 SharePoint 加载项编码：
 
-- [设置订阅](https://docs.microsoft.com/zh-CN/sharepoint/dev/spfx/set-up-your-developer-tenant)。  
+- [设置订阅](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)。  
 - 设置开发环境： 
-  - [开始创建 SharePoint 托管的 SharePoint 加载项](https://docs.microsoft.com/zh-CN/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
-  - [开始创建提供程序托管的 SharePoint 外接程序](https://docs.microsoft.com/zh-CN/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
+  - [开始创建 SharePoint 托管 SharePoint 加载项](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
+  - [开始创建提供程序托管的 SharePoint 加载项](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
 
 ## <a name="see-also"></a>另请参阅
 
 - [加入 Office 365 开发人员计划](office-365-developer-program.md)
 - [设置 Office 365 开发人员订阅](office-365-developer-program-get-started.md) 
+- [续订即将到期的订阅](subscription-expiration-and-renewal.md)
 - [Office 365 开发人员计划常见问题解答](office-365-developer-program-faq.md) 
