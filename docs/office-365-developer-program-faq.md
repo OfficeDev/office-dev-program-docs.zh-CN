@@ -3,12 +3,12 @@ title: Office 365 开发人员计划常见问题解答
 description: 有关 Office 365 开发人员计划的常见问题解答。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: cc87dd169705e4ac37e521ef8ca5d8529d810fe7
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042010"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490972"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 开发人员计划常见问题解答
 
@@ -70,15 +70,15 @@ Office 365 开发人员计划旨在帮助你构建可以扩展 Office 365 的以
 - [Flow for Office 365 计划 2](https://flow.microsoft.com/pricing/)
 - [Microsoft Forms（计划 E5）](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Stream for O365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [适用于 Office 365 E5 SKU 的 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 移动设备管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 专业增强版](https://products.office.com/business/office-365-proplus-business-software)
 - [PowerApps for Office 365 计划 2](https://powerapps.microsoft.com/pricing/)
-- [SharePoint Online 开发人员版](https://products.office.com/SharePoint/compare-sharepoint-plans)
+- [面向开发人员的 SharePoint Online](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online（计划 2）](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
-- [微软待办（计划 3）](https://todo.microsoft.com)
+- [待办事项 （计划 3）](https://todo.microsoft.com)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>订阅还包括对 Azure 的订阅吗？
 
@@ -136,14 +136,14 @@ Office 365 开发人员订阅仅提供英语版本。
 
 如果设置订阅时有问题，请参阅下列支持资源：
 
-- [堆栈溢出](https://stackoverflow.com/questions)   
+- [Stack Overflow](https://stackoverflow.com/questions)   
 - [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)
 
 ## <a name="see-also"></a>另请参阅
 
 - [加入 Office 365 开发人员计划](office-365-developer-program.md)
 - [设置 Office 365 开发人员订阅](office-365-developer-program-get-started.md)
-- [使用你的订阅来构建 Office 365 解决方案](build-office-365-solutions.md)
+- [使用您的订阅来构建 Office 365 解决方案](build-office-365-solutions.md)
 - [续订即将到期的订阅](subscription-expiration-and-renewal.md)
 
 

@@ -4,11 +4,11 @@ description: 有关如何续订即将到期的开发人员订阅的信息。
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044652"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491042"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365 开发人员计划订阅到期和续订
 
@@ -72,7 +72,7 @@ Office 365 开发人员计划成员身份包括免费的 Office 365 开发人员
 
 - [加入 Office 365 开发人员计划](office-365-developer-program.md)
 - [设置 Office 365 开发人员订阅](office-365-developer-program-get-started.md)
-- [使用订阅来生成 Office 365 解决方案](build-office-365-solutions.md)
+- [使用您的订阅来构建 Office 365 解决方案](build-office-365-solutions.md)
 - [Office 365 开发人员计划常见问题解答](office-365-developer-program-faq.md)
 
 

@@ -4,11 +4,11 @@ description: 设置 Office 365 开发人员订阅，构建独立于你的生产�
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042003"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490941"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>设置 Office 365 开发人员订阅 
 
@@ -67,7 +67,7 @@ ms.locfileid: "31042003"
   ![安装 Office 应用](images/11-install-office-apps.png)
 
    > [!TIP] 
-   > 随后访问仪表板时，请在转到仪表板之前，使用你的 username@domain**.onmicrosoft.com 帐户登录。
+   > 随后访问仪表板时，转到仪表板之前请用你*username@domain*. onmicrosoft.com 帐户。
 
 9. **您已达到设置过程的结尾**。 已完成订阅设置。 您可以选择评价体验。 准备就绪后，选择 **转到管理员中心**。
     
@@ -102,6 +102,6 @@ ms.locfileid: "31042003"
 ## <a name="see-also"></a>另请参阅
 
 - [加入 Office 365 开发人员计划](office-365-developer-program.md)
-- [使用你的订阅来构建 Office 365 解决方案](build-office-365-solutions.md)
+- [使用您的订阅来构建 Office 365 解决方案](build-office-365-solutions.md)
 - [续订即将到期的订阅](subscription-expiration-and-renewal.md)
 - [Office 365 开发人员计划常见问题解答](office-365-developer-program-faq.md)

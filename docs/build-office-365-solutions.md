@@ -4,11 +4,11 @@ description: 使用 Office 365 开发人员订阅来构建想要的解决方案�
 ms.date: 03/20/2018
 localization_priority: Priority
 ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
-ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31808098"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490877"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>使用开发人员订阅来构建 Office 365 解决方案
 
@@ -21,10 +21,11 @@ Microsoft Teams 是 Office 365 中一个基于聊天的工作区，它与用户�
 以下是如何设置与使用 Microsoft Teams 编码的信息：
 
 1. [准备 Office 365 开发人员订阅](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-tenant)。
-2. 设置开发环境。 此过程将因您想要构建的应用或服务类型而有所不同。 有关详细信息，请参阅以下内容之一：
+2. 设置开发环境。 此过程将因您想要构建的应用或服务类型而有所不同。 有关详细信息，请参阅以下内容：
 
-  - [开始在 Microsoft Teams 平台上使用 Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [开始在 Microsoft Teams 平台上使用 C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [开始在 Microsoft Teams 平台上使用 Node.js ](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
+  - 
+  [开始在 Microsoft Teams 平台上使用 C#/.NET ](https://docs.microsoft.com/zh-CN/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
@@ -55,8 +56,8 @@ SharePoint 加载项为独立式功能，可扩展 SharePoint 网站功能，从
 
 - [设置订阅](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)。  
 - 设置开发环境： 
-  - [开始创建 SharePoint 托管 SharePoint 加载项](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
-  - [开始创建提供程序托管的 SharePoint 加载项](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
+  - [开始创建 SharePoint 托管的 SharePoint 加载项](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
+  - [开始创建提供程序托管的 SharePoint 外接程序](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
 
 ## <a name="see-also"></a>另请参阅
 

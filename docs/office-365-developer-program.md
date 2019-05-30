@@ -4,11 +4,11 @@ description: 加入 Office 365 开发人员计划，开发独立于你的生产�
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31041982"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491006"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>欢迎加入 Office 365 开发人员计划
 
@@ -26,7 +26,7 @@ ms.locfileid: "31041982"
 
 4. 在 **Office 365 开发人员计划注册** 页面，填写在线表单的以下字段：
 
-  - **联系电子邮件地址**
+  - **联系人电子邮件**
   - **国家/地区**
   - **公司**
 
