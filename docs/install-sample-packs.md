@@ -2,12 +2,12 @@
 title: 将示例数据包与 Office 365 开发人员订阅结合使用
 description: 了解如何在 Office 365 开发人员订阅上安装示例数据包，帮助你快速启动并运行沙盒环境。
 localization_priority: Priority
-ms.openlocfilehash: 16e605080673678b750ebeab4501ceb980cea6cb
-ms.sourcegitcommit: 76c5e3c9b58026471378e7634d121842690fd517
+ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
+ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35618832"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902341"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>将示例数据包与 Office 365 开发人员订阅结合使用
 
@@ -87,6 +87,15 @@ ms.locfileid: "35618832"
 ## <a name="can-i-install-sample-data-packs-on-my-other-office-365-subscriptions"></a>能否在其他 Office 365 订阅上安装示例数据包吗？
 
 否。 这些示例数据包仅与 Office 365 开发人员订阅（作为 Office 365 开发人员计划的一部分获得）兼容。
+
+## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>如何查看我的订阅中的示例数据？
+
+安装用户示例数据包后，若要查看添加的用户，请在 Office 365 开发人员订阅上转到 **Microsoft 365 管理中心**。 在“**用户**”下，选择“**活动用户**”。 你将会看到包含 16 个用户的列表。 你可以选择一个用户来查看相关联的元数据，包括照片和许可证。
+
+![Microsoft 365 管理中心内 16 个用户的屏幕截图，其中包含针对所选用户的元数据](images/content-packs-07.PNG)
+
+安装邮件和事件示例包后，若要查看示例数据，请在 **Microsoft 365 管理中心**内选择“**全部显示**”，然后选择“**Exchange**”。 在 Exchange 管理中心内，当你选择“**收件人**”时，你可以看到 16 个用户均拥有添加了邮件和事件的邮箱。
+![添加到 Exchange 管理中心的 16 个用户的屏幕截图](images/content-packs-08.PNG)
 
 ## <a name="see-also"></a>另请参阅
 
