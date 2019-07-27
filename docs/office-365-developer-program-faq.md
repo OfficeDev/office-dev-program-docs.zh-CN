@@ -3,12 +3,12 @@ title: Office 365 开发人员计划常见问题解答
 description: 有关 Office 365 开发人员计划的常见问题解答。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: 8ac783772bd08bb4bcde6b775fc8c58b79595307
+ms.sourcegitcommit: e8d195d7e27198b13360c0de7435514c950e0bad
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490972"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916890"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 开发人员计划常见问题解答
 
@@ -67,18 +67,26 @@ Office 365 开发人员计划旨在帮助你构建可以扩展 Office 365 的以
 开发人员订阅包括以下内容：
 
 - [Exchange Online（计划 2）](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
-- [Flow for Office 365 计划 2](https://flow.microsoft.com/pricing/)
+- [用于 Office 365 的流](https://flow.microsoft.com/pricing/)
+- 
+  [Office 365 信息保护 - 标准](https://products.office.com/zh-CN/business/azure-information-protection-for-office-365)
 - [Microsoft Forms（计划 E5）](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+- 
+  [Microsoft 搜索](https://products.office.com/zh-CN/business/intelligent-search?tab=Discovery)
 - [适用于 Office 365 E5 SKU 的 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 移动设备管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 专业增强版](https://products.office.com/business/office-365-proplus-business-software)
-- [PowerApps for Office 365 计划 2](https://powerapps.microsoft.com/pricing/)
+- 
+  [Office 网页版](https://docs.microsoft.com/zh-CN/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)
 - [面向开发人员的 SharePoint Online](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online（计划 2）](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
 - [待办事项 （计划 3）](https://todo.microsoft.com)
+- 
+  [白板（计划 2）](https://products.office.com/zh-CN/microsoft-whiteboard/digital-whiteboard-app)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>订阅还包括对 Azure 的订阅吗？
 
