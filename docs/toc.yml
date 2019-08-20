@@ -4,6 +4,8 @@
   href: office-365-developer-program-get-started.md
 - name: 构建解决方案
   href: build-office-365-solutions.md
+- name: 使用示例数据包
+  href: install-sample-packs.md
 - name: 订阅过期和续订
   href: subscription-expiration-and-renewal.md
 - name: 开发人员计划常见问题解答
