@@ -24,8 +24,7 @@ Microsoft Teams 是 Office 365 中一个基于聊天的工作区，它与用户�
 2. 设置开发环境。 此过程将因您想要构建的应用或服务类型而有所不同。 有关详细信息，请参阅以下内容：
 
   - [开始在 Microsoft Teams 平台上使用 Node.js ](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - 
-  [开始在 Microsoft Teams 平台上使用 C#/.NET ](https://docs.microsoft.com/zh-CN/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [开始在 Microsoft Teams 平台上使用 C#/.NET ](https://docs.microsoft.com/zh-CN/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
