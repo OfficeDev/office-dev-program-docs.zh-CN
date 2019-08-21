@@ -2,12 +2,12 @@
 title: 将示例数据包与 Office 365 开发人员订阅结合使用
 description: 了解如何在 Office 365 开发人员订阅上安装示例数据包，帮助你快速启动并运行沙盒环境。
 localization_priority: Priority
-ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
-ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
+ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
+ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902341"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36465094"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>将示例数据包与 Office 365 开发人员订阅结合使用
 
@@ -15,7 +15,7 @@ ms.locfileid: "35902341"
 
 你可以在 Office 365 订阅磁贴底部的 [Office 365 开发人员计划仪表板](https://developer.microsoft.com/office/profile)上找到示例数据包。
 
-![仪表板页面上的订阅磁贴屏幕截图](images/content-packs-06.PNG)
+![仪表板页面上的订阅磁贴屏幕截图](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
 目前提供以下示例数据包：
 
@@ -45,6 +45,9 @@ ms.locfileid: "35902341"
 
 在安装用户示例数据包之前，请确保你拥有 Office 365 开发人员订阅，并以管理员身份为自己分配许可证。
 
+> [!NOTE]
+> 确保你的订阅中有 16 位用户空闲。 你的订阅包含 25 位用户。 如果你配置的用户数已超过 10 位，则请先删除一些用户，确保安装功能。
+
 若要安装用户示例数据包，请执行下列操作：
 
 1. 选择订阅磁贴底部的“**用户**”框。
@@ -52,19 +55,19 @@ ms.locfileid: "35902341"
 3. 在登录页面上输入你的管理员 ID 和密码。
 4. 以 Office 365 开发人员订阅的管理员身份给予相关许可权限。
 
-![显示权限许可对话框的屏幕截图](images/content-packs-01.png)
+![显示权限许可对话框的屏幕截图](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. 为所有示例用户配置密码。 你需要定义一个共享密码，以便轻松管理所有虚构用户。
 
-![用于添加共享用户密码的对话框的屏幕截图](images/content-packs-02.png)
+![用于添加共享用户密码的对话框的屏幕截图](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. 系统将安装数据。 安装过程大约需要 5 分钟时间。
 
-![显示仪表板磁贴上的安装进程的屏幕截图](images/content-packs-03.PNG)
+![显示仪表板磁贴上的安装进程的屏幕截图](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. 安装完成后，你将收到电子邮件通知，订阅磁贴上的框将显示为绿色。 你现在可以安装邮件和事件示例数据包。
 
-![准备安装邮件和事件的仪表板磁贴的屏幕截图](images/content-packs-04.PNG)
+![准备安装邮件和事件的仪表板磁贴的屏幕截图](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ## <a name="how-do-i-install-the-mail-and-events-sample-data-pack"></a>如何安装邮件和事件示例数据包？
 
@@ -73,7 +76,7 @@ ms.locfileid: "35902341"
 1. 选择订阅磁贴上的“**邮件和事件**”框。
 2. 选择“**安装**”以开始安装。
 
-![安装对话框的屏幕截图](images/content-packs-05.png)
+![安装对话框的屏幕截图](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
 > [!NOTE]
 > 如果你刚刚创建了订阅，则必须先完整配置它，然后才能开始安装。 这可能需要几个小时。 安装开始后，最多可能需要 20 分钟才能完成。
