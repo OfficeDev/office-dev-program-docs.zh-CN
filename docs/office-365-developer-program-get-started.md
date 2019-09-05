@@ -3,12 +3,12 @@ title: 设置 Microsoft 365 开发人员订阅
 description: 设置 Office 365 开发人员订阅，构建独立于你的生产环境的解决方案。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
-ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
+ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
+ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713889"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717515"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>设置 Microsoft 365 开发人员订阅 
 
@@ -21,9 +21,7 @@ ms.locfileid: "36713889"
 
 ## <a name="set-up-your-subscription"></a>设置订阅
 
-1. 若要获得 Office 365 开发人员订阅，在配置文件页面上，在 **需要 Office 365 订阅用于开发？**，选择**设置订阅**。
-
-  ![设置订阅](images/4-set-up-subscription.png)
+1. 要获取 Office 365 开发人员订阅，请在配置文件页面上，选择“**设置订阅**”。
 
 2. 在 **设置开发人员订阅** 对话框中，创建一个用户名和域。 此帐户必须具有订阅的全局管理员权限。 可选择任何用户名或域名（只要没有被用过）。 请勿使用空格。
 
@@ -42,14 +40,14 @@ ms.locfileid: "36713889"
 
 ## <a name="configure-the-subscription"></a>配置订阅
 
-1. 在配置文件页，选择 [office.com](https://www.office.com/) 链接，然后使用开发人员订阅指定的用户 ID（例如，username@domain.onmicrosoft.com）和密码登录。
+1. 在配置文件页，选择“**转到订阅**”，然后使用为开发人员订阅指定的用户 ID（例如，username@domain.onmicrosoft.com）和密码进行登录。
 
    > [!NOTE] 
    > 请不要使用开发人员计划凭据登录到订阅。
 
-2. 使用应用启动器转到 [管理员中心](https://portal.office.com/adminportal/home#/homepage)。
+2. 使用应用启动器转到 [管理员中心](https://admin.microsoft.com/AdminPortal/Home#/homepage)。
 
-3. 在管理员中心主页上，选择 **转到设置**。 这将转到 **Office 365 Enterprise E3 Developer 设置** 页面。
+3. 在管理员中心主页上，选择 **转到设置**。 这会转到 **Microsoft 365 E5 开发人员设置**页面。
 
 4. **个性化设置登录和电子邮件**。 可以将订阅连接到域，或只需使用你创建的现有子域。 准备就绪后，选择 **下一步**。
 

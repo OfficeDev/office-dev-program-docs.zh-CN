@@ -3,12 +3,12 @@ title: Office 365 开发人员计划订阅到期和续订
 description: 有关如何续订即将到期的开发人员订阅的信息。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: d22afb89b1f7d1c537ab3153876d3f227b33f1e2
-ms.sourcegitcommit: dcd023e761e89104a588768d71fc966729280e24
+ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
+ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35922103"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747115"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365 开发人员计划订阅到期和续订
 
@@ -46,7 +46,7 @@ Office 365 开发人员计划成员身份包括免费的 Office 365 开发人员
 
 <img alt="Screenshot of a text box with the title This subscription expired on Feb 1, 2019" src="images/16-renewable-notice-red.png" width="500"> 
 
-如果你是活跃的开发人员，订阅将自动额外续订 90 天。 
+如果你是活跃的开发人员，则你的订阅将从最初的过期日期开始再自动续订 90 天。 
 
 ## <a name="why-isnt-my-current-subscription-renewable"></a>为什么我的当前订阅不可续订？
 
