@@ -1,18 +1,20 @@
 ---
-title: 设置 Office 365 开发人员订阅
+title: 设置 Microsoft 365 开发人员订阅
 description: 设置 Office 365 开发人员订阅，构建独立于你的生产环境的解决方案。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490941"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713889"
 ---
-# <a name="set-up-an-office-365-developer-subscription"></a>设置 Office 365 开发人员订阅 
+# <a name="set-up-a-microsoft-365-developer-subscription"></a>设置 Microsoft 365 开发人员订阅 
 
-设置 Office 365 开发人员订阅，构建独立于你的生产环境的解决方案。 此订阅为 Office 365 Enterprise E3 Developer 订阅，随附 25 个用户许可证。 许可证有效期为 90 天，可免费用于开发目的（解决方案编码）。
+设置 Microsoft 365 开发人员订阅，构建独立于生产环境的解决方案。 此订阅为 Microsoft 365 E5 开发人员订阅，随附 25 个用户许可证。 许可证有效期为 90 天，仅可用于开发目的（编码解决方案）。 
+
+在 2019 年 8 月 25 日之前加入该计划的客户可获得 Office 365 E3 开发人员订阅。
 
 > [!NOTE] 
 > 若要设置订阅，必须先 [加入 Office 365 开发人员计划](office-365-developer-program.md)。 加入后，即可看到设置订阅的选项。
