@@ -3,12 +3,12 @@ title: 设置 Microsoft 365 开发人员订阅
 description: 设置 Office 365 开发人员订阅，构建独立于你的生产环境的解决方案。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
-ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
+ms.openlocfilehash: eadab2c1274260c1b5697bcd3f0473d1469a78c2
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717515"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275449"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>设置 Microsoft 365 开发人员订阅 
 
@@ -43,15 +43,13 @@ ms.locfileid: "36717515"
 1. 在配置文件页，选择“**转到订阅**”，然后使用为开发人员订阅指定的用户 ID（例如，username@domain.onmicrosoft.com）和密码进行登录。
 
    > [!NOTE] 
-   > 请不要使用开发人员计划凭据登录到订阅。
+   > 请不要使用开发人员计划帐户 ID 登录到订阅。
 
 2. 使用应用启动器转到 [管理员中心](https://admin.microsoft.com/AdminPortal/Home#/homepage)。
 
 3. 在管理员中心主页上，选择 **转到设置**。 这会转到 **Microsoft 365 E5 开发人员设置**页面。
 
 4. **个性化设置登录和电子邮件**。 可以将订阅连接到域，或只需使用你创建的现有子域。 准备就绪后，选择 **下一步**。
-
-  ![个性化设置登录和电子邮件页面](images/8a-set-up-personalize.png)
 
 5. **添加新用户**。 可以添加用户。 既有可能是虚拟用户，也可能是帮助开发的真实用户。 准备就绪后，选择“**下一步**”。
     
@@ -63,8 +61,6 @@ ms.locfileid: "36717515"
 7. **共享登录凭据**。 对于将访问订阅的任何真实用户，必须与其共享其登录凭据。 可以选择一种方法，如电子邮件、 下载或打印。 准备就绪后，选择 **下一步**。
 
 8. **安装 Office 应用**。 可以选择在电脑上安装 Office 应用。 准备就绪后，选择 **下一步**。
-
-  ![安装 Office 应用](images/11-install-office-apps.png)
 
    > [!TIP] 
    > 随后访问仪表板时，转到仪表板之前请用你*username@domain*. onmicrosoft.com 帐户。

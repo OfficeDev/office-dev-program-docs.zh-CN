@@ -3,12 +3,12 @@ title: Office 365 开发人员计划常见问题解答
 description: 有关 Office 365 开发人员计划的常见问题解答。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 9747238ed915f0b122ac9bf924d0d850d0dd55ad
-ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
+ms.openlocfilehash: acf847e4d6c7f06058b78383ab4e425cee3745d6
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713897"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275442"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 开发人员计划常见问题解答
 
@@ -27,42 +27,29 @@ Office 365 开发人员计划旨在帮助你构建可以扩展 Office 365 的以
 作为项目成员，你可以获得免费的 Office 365 开发人员订阅，可以使用 25 个用户许可证来构建解决方案。 只要你积极开发和部署解决方案，此订阅就会保持活动状态。
 
 有关详细信息，请参阅[加入 Office 365 开发人员计划](office-365-developer-program.md)和[构建 Office 365 解决方案](build-office-365-solutions.md)。
- 
-## <a name="how-does-the-office-365-developer-subscription-work"></a>Office 365 开发人员订阅如何工作？  
 
-如果你加入 Office 365 开发人员计划，即有资格获得免费的 Office 365 开发人员订阅。 这是一种特殊的订阅，仅用于应用程序开发，包含 25 个用户许可证。 
+## <a name="what-account-can-i-use-to-sign-up-for-the-office-365-developer-program"></a>可以使用什么帐户来注册 Office 365 开发人员计划？
 
-加入 Office 365 开发人员计划后，就会有接收和配置 Office 365 开发人员订阅的选项。 你的订阅可使用 90 天，此后还可续订 90 天，只要你将其用于开发活动。 
+您可以使用以下帐户类型之一注册开发人员计划：
 
-更多信息请参阅 [设置 Office 365 开发人员订阅](office-365-developer-program-get-started.md)。
+- **Microsoft 帐户**（由本人创建供个人使用） - 提供对所有面向消费者的 Microsoft 产品和云服务，如 Outlook (Hotmail)、Messenger、OneDrive、MSN、Xbox Live 或 Office 365 的访问。 注册一个 Outlook.com 邮箱将自动创建一个 Microsoft 帐户。 创建 Microsoft 帐户后，可以用于访问消费者相关的 Microsoft 云服务或 Azure。 
+- **工作帐户**（由管理员签发供企业使用） - 提供对所有小型、中型和企业业务级别 Microsoft 云服务的访问，如 Azure、 Microsoft Intune 或 Office 365。 作为组织注册此类服务时，会在 Azure Active Directory 中自动预配一个基于云的目录，来表示你的组织。 有关详细信息，请参阅 [管理 Azure AD 目录](https://docs.microsoft.com/azure/active-directory/active-directory-administer)。
+- **Visual Studio ID**（为 Visual Studio Professional 或 Enterprise 订阅创建）- 我们建议使用此选项从 Visual Studio Gallery 加入此开发人员计划，充分利用 Visual Studio 订阅者的权益。 
 
-## <a name="how-many-user-licenses-can-i-add-with-my-subscription"></a>我的订阅可以添加多少个用户许可证？
+## <a name="how-can-i-get-an-office-365-developer-subscription-via-the-developer-program"></a>如何通过开发人员计划获取 Office 365 开发人员订阅？  
 
-可添加最多 25 个用户许可证（包括管理员），仅用于开发。 如果将此订阅用于应用程序开发外的其他用途，会被视为违反许可证协议。 有关许可限制的更多详细信息，请参阅 [Office 365 开发人员订阅使用条款](terms-and-conditions.md)。
+如果你加入 Office 365 开发人员计划，即有资格获得免费的 Office 365 开发人员订阅。 这是一种特殊的订阅，仅用于应用程序开发。 有关详细信息，请参阅[设置 Office 365 开发人员订阅](office-365-developer-program-get-started.md)。
 
-## <a name="why-dont-you-offer-a-one-year-subscription"></a>为什么不提供一年订阅？
+## <a name="what-id-do-i-use-to-sign-in-to-the-developer-program-dashboard"></a>使用哪个 ID 登录开发人员计划仪表板？
 
-2019 年 4 月，我们转移到了新的模式：你的订阅可以以 90 天为周期永久续订，只要你积极地将此订阅用于开发。 我们认为此模式可确保积极开发解决方案的开发人员拥有可满足其使用期限要求的订阅。 如果你频繁进行开发，订阅将永不过期，订阅会自动延期。 如果你在短期内进行开发，你的订阅过期并被删除，可以注册新的订阅。 
+使用你的会员 ID 登录开发人员计划仪表板，以访问有关你的订阅的信息。 这是你加入该计划时用于登录的 Microsoft 帐户或支持 Azure Active Directory 的电子邮件。
 
-如果你希望拥有长期可用的订阅，建议你获取 Visual Studio Professional 或 Visual Studio Enterprise 订阅。 这些计划包括免费的 Office 365 开发人员订阅，该订阅在 Visual Studio 订阅有效期内可用。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 
+## <a name="what-id-do-i-use-to-sign-in-to-my-developer-subscription"></a>使用哪个 ID 登录开发人员订阅？
 
-## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>如何确定订阅是否可续订？
-
-我们使用一系列算法和通过 Office 365 开发人员计划和 Office 365 开发人员订阅中你的活动获得的遥测数据，确定你是否正在积极进行开发。 我们定期查看这些遥测数据，更新你的状态，并确定你的订阅是否应延期。 
-
-如果你认为我们未能正确跟踪你的开发活动，可以通过仪表板告诉我们。 要在仪表板警报中提交表单，告诉我们你将订阅用于开发的情况，请选择“**告诉我们**”链接，如下图所示。 我们将审阅你的请求，如果你符合延期条件，我们会通知你。 
-
-<img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
-
-## <a name="how-do-you-define-development-activity"></a>你们如何定义开发活动？
-
-通过 Office 365 开发人员计划和 Office 365 开发人员订阅中你的活动确定你是否正在积极开发，以及是否应将你的订阅延期。 
-
-## <a name="what-development-activities-do-you-track"></a>你们跟踪哪些开发活动？
-
-要详细了解我们跟踪的活动类型，请参阅 [Office 365 开发人员订阅使用条款](terms-and-conditions.md)。 
+使用设置开发人员订阅时创建的管理员 ID。 可在[开发人员计划仪表板](https://developer.microsoft.com/zh-CN/office/profile)上的订阅磁贴上找到管理员 ID。
 
 ## <a name="whats-included-in-the-developer-subscription"></a>开发人员订阅中包含了哪些内容？
+
 如果你在 2019 年 8 月 25 日后创建了订阅，则可获得包括 25 个用户许可证的 Office 365 E5 开发人员订阅。 在 2019 年 8 月 25 日之前加入该计划的客户可获得包括 25 个用户许可证的 Office 365 E3 开发人员订阅。
 
 Office 365 E3 开发人员订阅包括以下内容：
@@ -72,7 +59,7 @@ Office 365 E3 开发人员订阅包括以下内容：
 - [Office 365 信息保护 - 标准](https://products.office.com/zh-CN/business/azure-information-protection-for-office-365)
 - [Microsoft Forms（计划 E5）](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft 搜索](https://products.office.com/zh-CN/business/intelligent-search?tab=Discovery)
+- [Microsoft 搜索](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
 - [适用于 Office 365 E5 SKU 的 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 移动设备管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
@@ -132,25 +119,17 @@ Microsoft 365 E5 开发人员订阅包括以下内容：
 -   白板（计划 3） 
 -   Yammer 企业版 
 
-## <a name="how-do-i-know-which-subscription-i-have"></a>如何知道我有哪些订阅？
-
 可在[仪表板](https://developer.microsoft.com/office/profile)的订阅磁贴上看到你订阅的是 Microsoft 365 E5 还是 Office 365 E3。 该磁贴将在订阅域名下显示 E3 或 E5。
 
 ![突出显示 E5 的订阅磁贴的屏幕截图](images/subscription-tile-e5.png)。
 
-## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>如何从 Office 365 E3 订阅迁移到 Microsoft 365 E5 订阅？
-
-目前，仅新的 Office 365 开发人员计划成员能自动获得 Microsoft 365 E5 开发人员订阅。 我们将向现有用户提供一种迁移到 Microsoft 365 E5 订阅的方法。 请放心，我们正在致力于帮助所有 Office 365 开发人员计划成员迁移到 Microsoft 365 E5。 
-
-## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>是否可以在 Office 365 E3 和 Microsoft 365 E5 订阅两者之间进行选择？
-
-目前，仅向新的开发人员计划成员提供 Microsoft 365 E5 订阅。 订阅 Office 365 E3 的现有成员如果不需要 Microsoft 365 E5 中提供的新功能，可以选择保留其当前订阅并继续续订。 开发人员计划成员只能享有一个订阅。  
-
-当我们为现有开发人员计划成员提供迁移选项时，我们将提供有关如何迁移的详细信息。 
-
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>订阅还包括对 Azure 的订阅吗？
 
 此项优惠不包括 Azure 的订阅。 但是，若要接受免费访问 Azure 服务，您可以 [创建一个免费的 Azure 帐户](https://azure.microsoft.com/free/)。 
+
+## <a name="how-many-user-licenses-does-the-office-365-developer-subscription-include"></a>Office 365 开发人员订阅包括多少个用户许可证？
+
+Office 365 开发人员订阅包括 25 个用户许可证（包括管理员），仅用于开发。 如果将此订阅用于应用程序开发外的其他用途，会被视为违反许可证协议。 有关许可限制的更多详细信息，请参阅 [Office 365 开发人员订阅使用条款](terms-and-conditions.md)。
 
 ## <a name="how-long-is-my-subscription-good-for-and-when-does-it-expire"></a>我的订阅有效期多长，何时会过期？
 
@@ -159,6 +138,26 @@ Microsoft 365 E5 开发人员订阅包括以下内容：
 如果通过 Visual Studio Enterprise 或 Visual Studio Professional 加入计划，订阅将自动续订，直到 Visual Studio subscription 到期。 
 
 <a name="renew-subscription"> </a>
+
+## <a name="why-dont-you-offer-a-one-year-subscription"></a>为什么不提供一年订阅？
+
+2019 年 4 月，我们转移到了新的模式：你的订阅可以以 90 天为周期永久续订，只要你积极地将此订阅用于开发。 我们认为此模式可确保积极开发解决方案的开发人员拥有可满足其使用期限要求的订阅。 如果你频繁进行开发，订阅将永不过期，订阅会自动延期。 如果你在短期内进行开发，你的订阅过期并被删除，可以注册新的订阅。 
+
+如果你希望拥有长期可用的订阅，建议你获取 Visual Studio Professional 或 Visual Studio Enterprise 订阅。 这些计划包括免费的 Office 365 开发人员订阅，该订阅在 Visual Studio 订阅有效期内可用。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 
+
+## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>如何确定订阅是否可续订？
+
+我们使用一系列算法和通过 Office 365 开发人员计划和 Office 365 开发人员订阅中你的活动获得的遥测数据，确定你是否正在积极进行开发。 我们定期查看这些遥测数据，更新你的状态，并确定你的订阅是否应延期。 
+
+如果你认为我们未能正确跟踪你的开发活动，可以通过仪表板告诉我们。 要在仪表板警报中提交表单，告诉我们你将订阅用于开发的情况，请选择“**告诉我们**”链接，如下图所示。 我们将审阅你的请求，如果你符合延期条件，我们会通知你。 
+
+<img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
+
+## <a name="how-do-you-define-development-activity"></a>你们如何定义开发活动？
+
+通过 Office 365 开发人员计划和 Office 365 开发人员订阅中你的活动确定你是否正在积极开发，以及是否应将你的订阅延期。 
+
+要详细了解我们跟踪的活动类型，请参阅 [Office 365 开发人员订阅使用条款](terms-and-conditions.md)。 
 
 ## <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>我的订阅将要到期时，我是否可以续订？
 
@@ -172,14 +171,16 @@ Microsoft 365 E5 开发人员订阅包括以下内容：
 
 <a name="account-types"> </a>
 
-## <a name="what-account-can-i-use-to-sign-up-for-the-office-365-developer-program"></a>可以使用什么帐户来注册 Office 365 开发人员计划？
+## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>如何从 Office 365 E3 订阅迁移到 Microsoft 365 E5 订阅？
 
-您可以使用以下帐户类型之一注册开发人员计划：
+目前，仅新的 Office 365 开发人员计划成员能自动获得 Microsoft 365 E5 开发人员订阅。 我们将向现有用户提供一种迁移到 Microsoft 365 E5 订阅的方法。 请放心，我们正在致力于帮助所有 Office 365 开发人员计划成员迁移到 Microsoft 365 E5。 
 
-- **Microsoft 帐户**（由本人创建供个人使用） - 提供对所有面向消费者的 Microsoft 产品和云服务，如 Outlook (Hotmail)、Messenger、OneDrive、MSN、Xbox Live 或 Office 365 的访问。 注册一个 Outlook.com 邮箱将自动创建一个 Microsoft 帐户。 创建 Microsoft 帐户后，可以用于访问消费者相关的 Microsoft 云服务或 Azure。 
-- **工作帐户**（由管理员签发供企业使用） - 提供对所有小型、中型和企业业务级别 Microsoft 云服务的访问，如 Azure、 Microsoft Intune 或 Office 365。 作为组织注册此类服务时，会在 Azure Active Directory 中自动预配一个基于云的目录，来表示你的组织。 有关详细信息，请参阅 [管理 Azure AD 目录](https://docs.microsoft.com/azure/active-directory/active-directory-administer)。
-- **Visual Studio ID**（为 Visual Studio Professional 或 Enterprise 订阅创建）- 我们建议使用此选项从 Visual Studio Gallery 加入此开发人员计划，充分利用 Visual Studio 订阅者的权益。 
- 
+## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>是否可以在 Office 365 E3 和 Microsoft 365 E5 订阅两者之间进行选择？
+
+目前，仅向新的开发人员计划成员提供 Microsoft 365 E5 订阅。 订阅 Office 365 E3 的现有成员如果不需要 Microsoft 365 E5 中提供的新功能，可以选择保留其当前订阅并继续续订。 开发人员计划成员只能享有一个订阅。  
+
+当我们为现有开发人员计划成员提供迁移选项时，我们将提供有关如何迁移的详细信息。 
+
 ## <a name="as-a-microsoft-partner-can-i-receive-a-subscription"></a>作为 Microsoft 合作伙伴，我可以接收订阅吗？ 
 
 是的，您可以按照 [以下说明操作](office-365-developer-program.md) 加入 Office 365 开发人员计划并设置 Office 365 开发人员订阅。 但是，如果已拥有 Visual Studio Enterprise 或 Visual Studio Professional (MSDN) 订阅，那么 Office 365 开发人员订阅也可作为有益补充。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 
