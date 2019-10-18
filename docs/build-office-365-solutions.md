@@ -24,13 +24,13 @@ Microsoft Teams 是 Office 365 中一个基于聊天的工作区，它与用户�
 2. 设置开发环境。 此过程将因您想要构建的应用或服务类型而有所不同。 有关详细信息，请参阅以下内容：
 
   - [开始在 Microsoft Teams 平台上使用 Node.js ](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [开始在 Microsoft Teams 平台上使用 C#/.NET ](https://docs.microsoft.com/zh-CN/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [开始在 Microsoft Teams 平台上使用 C#/.NET ](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
 可以使用 Microsoft Graph 在 Microsoft 云中与数百万用户的数据交互。 使用 Microsoft Graph 为组织和消费者生成应用，此类应用与所有这些资源、关系以及情报通过单个终结点相连接：`https://graph.microsoft.com`。
 
-若要获取设置和使用 Microsoft Graph 编码的信息，请参阅 [开始生成 Microsoft Graph 应用程序](https://developer.microsoft.com/zh-CN/graph/get-started) 或 Microsoft Graph[快速入门](https://developer.microsoft.com/zh-CN/graph/quick-start)。
+若要获取设置和使用 Microsoft Graph 编码的信息，请参阅 [开始生成 Microsoft Graph 应用程序](https://developer.microsoft.com/en-us/graph/get-started) 或 Microsoft Graph[快速入门](https://developer.microsoft.com/en-us/graph/quick-start)。
 
 ## <a name="office-add-ins"></a>Office 加载项
 
