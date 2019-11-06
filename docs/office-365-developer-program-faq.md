@@ -3,12 +3,12 @@ title: Office 365 开发人员计划常见问题解答
 description: 有关 Office 365 开发人员计划的常见问题解答。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: acf847e4d6c7f06058b78383ab4e425cee3745d6
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: db2fc80d496238d090b4528e26f6afda7ccc2696
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275442"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962238"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 开发人员计划常见问题解答
 
@@ -187,7 +187,7 @@ Office 365 开发人员订阅包括 25 个用户许可证（包括管理员）�
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>作为 Microsoft 全职员工，我可以接收订阅吗？
 
-Microsoft 员工无法注册此项优惠。 但是，所有 Microsoft 全职员工都有权访问包含 Office E3 开发人员访问权限在内的的免费 Visual Studio (MSDN) 订阅。 你可以在 [Visual Studio |My Benefits](https://my.visualstudio.com/benefits) 获得此权益。
+Microsoft 员工无法注册此项优惠。 所有 Microsoft 全职员工都有权访问包含 Microsoft 365 E5 开发人员订阅访问权限在内的的免费 Visual Studio (MSDN) 订阅。 你可以在 [Visual Studio |My Benefits](https://my.visualstudio.com/benefits) 获得此权益。
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>作为在 Microsoft 工作的供应商，有没有资格接收订阅？
 

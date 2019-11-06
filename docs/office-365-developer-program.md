@@ -3,12 +3,12 @@ title: 加入 Office 365 开发人员计划
 description: 加入 Office 365 开发人员计划，开发独立于你的生产环境的 Office 365 解决方案。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: b8aeda4e17a526c8afffcbb8f055c3c937f74661
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: d4e049609b8c943d4aa4d5eca12f1b003d2ee8bb
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275456"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962231"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>欢迎加入 Office 365 开发人员计划
 
@@ -21,7 +21,7 @@ ms.locfileid: "37275456"
 2. 在右上角，选择 **登录** 以使用 Microsoft 帐户或启用了 Azure Active Directory 的电子邮件登录。
 
     > [!NOTE]
-    > 请记住你登录时使用的帐户。 你将使用此帐户登录[开发人员计划仪表板](https://developer.microsoft.com/office/profile)。 此帐户不同于用于 Microsoft 35 开发人员订阅的管理员 ID。
+    > 请记住你登录时使用的帐户。 你将使用此帐户登录[开发人员计划仪表板](https://developer.microsoft.com/office/profile)。 此帐户不同于用于 Microsoft 365 开发人员订阅的管理员 ID。
 
   <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="700">
 
