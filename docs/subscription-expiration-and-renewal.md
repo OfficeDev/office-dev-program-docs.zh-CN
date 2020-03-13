@@ -1,26 +1,26 @@
 ---
-title: Office 365 开发人员计划订阅到期和续订
+title: Microsoft 365 开发人员计划订阅到期和续订
 description: 有关如何续订即将到期的开发人员订阅的信息。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
-ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
+ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747115"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600793"
 ---
-# <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365 开发人员计划订阅到期和续订
+# <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 开发人员计划订阅到期和续订
 
-Office 365 开发人员计划成员身份包括免费的 Office 365 开发人员订阅。 可以基于开发活动续订开发人员订阅；但是，一些较早的订阅确实会过期。 本文介绍可续订的订阅和不可续订的订阅之间的区别，以及如何在订阅到期时更新订阅。
+Microsoft 365 开发人员计划成员身份包括免费的 Office 365 E3 或 Microsoft 365 E5 开发人员订阅。 可以基于开发活动续订开发人员订阅；但是，一些较早的订阅确实会过期。 本文介绍可续订的订阅和不可续订的订阅之间的区别，以及如何在订阅到期时更新订阅。
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>即将过期的与可续订的开发人员订阅
 
-随着 Office 365 开发人员计划的推出，我们提供了 12 个月的开发人员订阅，这些订阅在到期时无法续订。 2018 年 8 月，我们开始向一些开发人员计划成员提供可续订的订阅。
+随着 Microsoft 365 开发人员计划的推出，我们提供了 12 个月的开发人员订阅，这些订阅在到期时无法续订。 2018 年 8 月，我们开始向一些开发人员计划成员提供可续订的订阅。
 
 从 2019 年 4 月开始，我们提供 90 天的可续订订阅。
 
-可以通过查看 [Office 365 开发人员计划仪表板](https://developer.microsoft.com/zh-CN/office/profile)来确定是否拥有可续订或不可续订的订阅。
+可以通过查看 [Microsoft 365 开发人员计划仪表板](https://aka.ms/DevProgramDashboard)来确定是否拥有可续订或不可续订的订阅。
 
 ## <a name="non-renewable-subscriptions"></a>不可续订的订阅
 
@@ -58,9 +58,9 @@ Office 365 开发人员计划成员身份包括免费的 Office 365 开发人员
 
 若要将数据从当前订阅迁移到新订阅，请参阅以下资源：
 
-- [如何将邮箱从一个 Office 365 租户迁移到另一个租户](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [使用 PowerShell 执行暂存迁移以迁移到 Office 365](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
-- [从一个 Office 365 订阅迁移到另一个 Office 365 订阅（不通过第三方）](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
+- [如何将邮箱从一个租户迁移到另一个租户](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [使用 PowerShell 执行暂存迁移](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [从一个订阅迁移到另一个订阅（不通过第三方）](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>如何知道我的订阅是否已被删除？
 
@@ -70,10 +70,10 @@ Office 365 开发人员计划成员身份包括免费的 Office 365 开发人员
 
 ## <a name="see-also"></a>另请参阅
 
-- [加入 Office 365 开发人员计划](office-365-developer-program.md)
-- [设置 Office 365 开发人员订阅](office-365-developer-program-get-started.md)
-- [使用您的订阅来构建 Office 365 解决方案](build-office-365-solutions.md)
-- [Office 365 开发人员计划常见问题解答](office-365-developer-program-faq.md)
+- [加入 Microsoft 365 开发人员计划团队](microsoft-365-developer-program.md)
+- [设置 Microsoft 365 开发人员订阅](microsoft-365-developer-program-get-started.md)
+- [使用你的订阅来构建 Microsoft 365 解决方案](build-microsoft-365-solutions.md)
+- [Microsoft 365 开发人员计划常见问题解答](microsoft-365-developer-program-faq.md)
 
 
 
