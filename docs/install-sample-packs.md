@@ -1,19 +1,19 @@
 ---
-title: 将示例数据包与 Office 365 开发人员订阅结合使用
-description: 了解如何在 Office 365 开发人员订阅上安装示例数据包，帮助你快速启动并运行沙盒环境。
+title: 将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
+description: 了解如何在开发人员订阅上安装示例数据包，以快速启动并运行沙盒环境。
 localization_priority: Priority
-ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
-ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
+ms.openlocfilehash: 2cc7027ccad5b7971c1ae9d49416b9b25663c255
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36465094"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600800"
 ---
-# <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>将示例数据包与 Office 365 开发人员订阅结合使用
+# <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
 
-你可以在 Office 365 开发人员订阅上安装示例数据包。 示例数据包可自动安装构建和测试解决方案所需的数据和内容，从而节省你的时间。 其中包含虚构用户、元数据和照片，用于模拟小型企业环境。 你可以快速安装示例数据，以便专注于你的解决方案，而不是花时间亲自创建示例数据。
+可以在 Microsoft 365 开发人员计划订阅上安装示例数据包。 示例数据包可自动安装构建和测试解决方案所需的数据和内容，从而节省你的时间。 其中包含虚构用户、元数据和照片，用于模拟小型企业环境。 你可以快速安装示例数据，以便专注于你的解决方案，而不是花时间亲自创建示例数据。
 
-你可以在 Office 365 订阅磁贴底部的 [Office 365 开发人员计划仪表板](https://developer.microsoft.com/office/profile)上找到示例数据包。
+可以在订阅磁贴底部的 [Microsoft 365 开发人员计划仪表板](https://developer.microsoft.com/office/profile)上找到示例数据包。
 
 ![仪表板页面上的订阅磁贴屏幕截图](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
@@ -35,7 +35,7 @@ ms.locfileid: "36465094"
 > [!NOTE]
 > 在安装邮件和事件之前，你必须先安装用户示例数据包。
 
-## <a name="what-do-the-sample-data-packs-add-to-my-office-365-subscription"></a>示例数据包会将哪些内容添加到我的 Office 365 订阅？
+## <a name="what-do-the-sample-data-packs-add-to-my-subscription"></a>示例数据包会将什么添加到我的订阅中？
 
 用户示例数据包将在你的订阅上创建 16 个虚构用户，并包含每位用户的许可证、邮箱、姓名、元数据和照片。
 
@@ -43,7 +43,7 @@ ms.locfileid: "36465094"
 
 ## <a name="how-do-i-install-the-users-sample-data-pack"></a>如何安装用户示例数据包？
 
-在安装用户示例数据包之前，请确保你拥有 Office 365 开发人员订阅，并以管理员身份为自己分配许可证。
+安装“用户”示例数据包前，请先确保你有 Microsoft 365 开发人员订阅，并以管理员身份为自己分配许可证。
 
 > [!NOTE]
 > 确保你的订阅中有 16 位用户空闲。 你的订阅包含 25 位用户。 如果你配置的用户数已超过 10 位，则请先删除一些用户，确保安装功能。
@@ -53,7 +53,7 @@ ms.locfileid: "36465094"
 1. 选择订阅磁贴底部的“**用户**”框。
 2. 复制你的管理员 ID；你需要它来登录你的订阅。
 3. 在登录页面上输入你的管理员 ID 和密码。
-4. 以 Office 365 开发人员订阅的管理员身份给予相关许可权限。
+4. 以 Microsoft 365 开发人员订阅管理员身份许可权限。
 
 ![显示权限许可对话框的屏幕截图](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
@@ -87,13 +87,13 @@ ms.locfileid: "36465094"
 
 是。 我们将为 SharePoint 和 OneDrive 添加示例数据包。 将来，我们将考虑为更多产品和技术添加示例数据包，包括 Office 加载项、Microsoft Teams 等。
 
-## <a name="can-i-install-sample-data-packs-on-my-other-office-365-subscriptions"></a>能否在其他 Office 365 订阅上安装示例数据包吗？
+## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>能否在其他 Microsoft 365 订阅上安装示例数据包？
 
-否。 这些示例数据包仅与 Office 365 开发人员订阅（作为 Office 365 开发人员计划的一部分获得）兼容。
+否。 这些示例数据包仅与作为 Microsoft 365 开发人员计划的一部分获取的 Microsoft 365 开发人员订阅兼容。
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>如何查看我的订阅中的示例数据？
 
-安装用户示例数据包后，若要查看添加的用户，请在 Office 365 开发人员订阅上转到 **Microsoft 365 管理中心**。 在“**用户**”下，选择“**活动用户**”。 你将会看到包含 16 个用户的列表。 你可以选择一个用户来查看相关联的元数据，包括照片和许可证。
+安装“用户”示例数据包后，若要查看添加的用户，请在 Microsoft 365 开发人员订阅上转到 **Microsoft 365 管理中心**。 在“**用户**”下，选择“**活动用户**”。 你将会看到包含 16 个用户的列表。 你可以选择一个用户来查看相关联的元数据，包括照片和许可证。
 
 ![Microsoft 365 管理中心内 16 个用户的屏幕截图，其中包含针对所选用户的元数据](images/content-packs-07.PNG)
 
@@ -102,4 +102,4 @@ ms.locfileid: "36465094"
 
 ## <a name="see-also"></a>另请参阅
 
-- [设置 Office 365 开发人员订阅](office-365-developer-program-get-started.md)
+- [设置 Microsoft 365 开发人员订阅](microsoft-365-developer-program-get-started.md)
