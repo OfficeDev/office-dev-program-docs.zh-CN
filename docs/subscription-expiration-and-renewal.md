@@ -3,12 +3,12 @@ title: Microsoft 365 开发人员计划订阅到期和续订
 description: 有关如何续订即将到期的开发人员订阅的信息。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 1235a28e45babf60b7d40cf08bfcd7992184ff40
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600793"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890194"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 开发人员计划订阅到期和续订
 
@@ -32,7 +32,7 @@ Microsoft 365 开发人员计划成员身份包括免费的 Office 365 E3 或 Mi
 
 <img alt="Screenshot of a text box with the title This subscription has expired and cannot be renewed" src="images/14-expiration-notice-red.png" width="500"> 
 
-若要创建替换订阅，请选择“设置订阅”****。 
+若要创建替换订阅，请选择“设置订阅”。 
 
 此外，还需要迁移需保存到新订阅的所有重要数据。 有关详细信息，请参阅本主题后面的[如何迁移我的数据？](#migrate-data)。
 
@@ -58,8 +58,8 @@ Microsoft 365 开发人员计划成员身份包括免费的 Office 365 E3 或 Mi
 
 若要将数据从当前订阅迁移到新订阅，请参阅以下资源：
 
-- [如何将邮箱从一个租户迁移到另一个租户](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [使用 PowerShell 执行暂存迁移](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [如何将邮箱从一个租户迁移到另一个租户](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [使用 PowerShell 执行暂存迁移](/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
 - [从一个订阅迁移到另一个订阅（不通过第三方）](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>如何知道我的订阅是否已被删除？
