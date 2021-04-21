@@ -1,5 +1,7 @@
 - name: Microsoft 365 开发人员计划
   href: microsoft-365-developer-program.md
+- name: 使用 Visual Studio 订阅加入
+  href: join-with-visual-studio.md
 - name: 设置开发人员订阅
   href: microsoft-365-developer-program-get-started.md
 - name: 构建解决方案

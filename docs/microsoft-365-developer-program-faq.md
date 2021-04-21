@@ -3,12 +3,12 @@ title: Microsoft 365 开发人员计划常见问题解答
 description: 有关 Microsoft 365 开发人员计划的常见问题解答。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: e52eccadf91e9a42534a79cb1ec7f6d48dbede46
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601278"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890187"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>Microsoft 365 开发人员计划常见问题解答
 
@@ -33,7 +33,7 @@ Microsoft 365 开发人员计划旨在帮助你构建可以扩展 Microsoft 365 
 你可以使用以下帐户类型之一注册开发人员计划：
 
 - **Microsoft 帐户**（由本人创建供个人使用） - 提供对所有面向消费者的 Microsoft 产品和云服务，如 Outlook (Hotmail)、Messenger、OneDrive、MSN、Xbox Live 或 Microsoft 365 的访问。 注册一个 Outlook.com 邮箱将自动创建一个 Microsoft 帐户。 创建 Microsoft 帐户后，可以用于访问消费者相关的 Microsoft 云服务或 Azure。 
-- **工作帐户**（由管理员签发供企业使用） - 提供对所有小型、中型和企业业务级别 Microsoft 云服务的访问，如 Azure、Microsoft Intune 或 Microsoft 365。 作为组织注册此类服务时，会在 Azure Active Directory 中自动预配一个基于云的目录，来表示你的组织。 有关详细信息，请参阅 [管理 Azure AD 目录](https://docs.microsoft.com/azure/active-directory/active-directory-administer)。
+- **工作帐户**（由管理员签发供企业使用） - 提供对所有小型、中型和企业业务级别 Microsoft 云服务的访问，如 Azure、Microsoft Intune 或 Microsoft 365。 作为组织注册此类服务时，会在 Azure Active Directory 中自动预配一个基于云的目录，来表示你的组织。 有关详细信息，请参阅 [管理 Azure AD 目录](/azure/active-directory/active-directory-administer)。
 - **Visual Studio ID**（为 Visual Studio Professional 或 Enterprise 订阅创建）- 我们建议使用此选项从 Visual Studio Gallery 加入此开发人员计划，充分利用 Visual Studio 订阅者的权益。 
 
 ## <a name="how-can-i-get-a-microsoft-365-developer-subscription-via-the-developer-program"></a>如何通过开发人员计划获取 Microsoft 365 开发人员订阅？  
@@ -59,12 +59,13 @@ Office 365 E3 开发人员订阅包括以下内容：
 - [Office 365 信息保护 - 标准](https://products.office.com/zh-CN/business/azure-information-protection-for-office-365)
 - [Microsoft Forms（计划 E5）](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft 搜索](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
+- 
+  [Microsoft 搜索](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
 - [适用于 Office 365 E5 SKU 的 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 移动设备管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 专业增强版](https://products.office.com/business/office-365-proplus-business-software)
-- [Office 网页版](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [Office 网页版](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)
 - [面向开发人员的 SharePoint Online](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online（计划 2）](https://products.office.com/skype-for-business/online-meeting-solutions)
@@ -121,7 +122,7 @@ Microsoft 365 E5 开发人员订阅包括以下内容：
 
 可在[仪表板](https://developer.microsoft.com/office/profile)的订阅磁贴上看到你订阅的是 Microsoft 365 E5 还是 Office 365 E3。 该磁贴将在订阅域名下显示 E3 或 E5。
 
-![突出显示 E5 的订阅磁贴的屏幕截图](images/subscription-tile-e5.png)。
+![突出显示 E5 订阅磁贴的屏幕截图](images/subscription-tile-e5.png).
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>订阅还包括对 Azure 的订阅吗？
 
@@ -177,21 +178,21 @@ Office 365 E3 或 Microsoft 365 E5 开发人员订阅包括 25 个用户许可�
 
 ## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>是否可以在 Office 365 E3 和 Microsoft 365 E5 订阅两者之间进行选择？
 
-目前，仅向新的开发人员计划成员提供 Microsoft 365 E5 订阅。 订阅 Office 365 E3 的现有成员如果不需要 Microsoft 365 E5 中提供的新功能，可以选择保留其当前订阅并继续续订。 开发人员计划成员只能享有一个订阅。  
+目前，仅向新的开发人员计划成员提供 Microsoft 365 E5 订阅。 具有 Office 365 E3 订阅的现有成员如果不需要 Microsoft 365 E5 中提供的新功能，可以选择保留其当前订阅并继续续订。 开发人员计划成员只能享有一个订阅。  
 
 当我们为现有开发人员计划成员提供迁移选项时，我们将提供有关如何迁移的详细信息。 
 
 ## <a name="as-a-microsoft-partner-can-i-receive-a-subscription"></a>作为 Microsoft 合作伙伴，我可以接收订阅吗？ 
 
-是的，你可以按照[以下说明操作](microsoft-365-developer-program.md)加入 Microsoft 365 开发人员计划并设置 Microsoft 365 开发人员订阅。 但是，如果已拥有 Visual Studio Enterprise 或 Visual Studio Professional (MSDN) 订阅，那么 Microsoft 365 开发人员订阅也可作为有益补充。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 
+是的，你可以按照[以下说明操作](microsoft-365-developer-program.md)加入 Microsoft 365 开发人员计划并设置 Microsoft 365 开发人员订阅。 但是，如果已拥有 Visual Studio Enterprise 或 Visual Studio Professional 订阅，也可以享有获取 Microsoft 365 开发人员订阅的权益。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>作为 Microsoft 全职员工，我可以接收订阅吗？
 
-Microsoft 员工无法注册此项优惠。 所有 Microsoft 全职员工都有权访问包含 Microsoft 365 E5 开发人员订阅访问权限在内的的免费 Visual Studio (MSDN) 订阅。 你可以在 [Visual Studio |My Benefits](https://my.visualstudio.com/benefits) 获得此权益。
+Microsoft 员工无法注册此项优惠。 所有 Microsoft 全职员工都有权获得包含 Microsoft 365 E5 开发人员订阅访问权限在内的的免费 Visual Studio 订阅。 你可以在 [Visual Studio |My Benefits](https://my.visualstudio.com/benefits) 获得此权益。
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>作为在 Microsoft 工作的供应商，有没有资格接收订阅？
 
-是的，你可以按照[以下说明操作](microsoft-365-developer-program.md)加入 Microsoft 365 开发人员计划并设置 Microsoft 365 开发人员订阅。 即使对于供应商，此订阅_仅用于应用程序开发_。 如果没有进行有效的开发活动，订阅将不会续订。
+是的，你可以按照[以下说明操作](microsoft-365-developer-program.md)加入 Microsoft 365 开发人员计划并设置 Microsoft 365 开发人员订阅。 即使对于供应商，此订阅 _仅用于应用程序开发_。 如果没有进行有效的开发活动，订阅将不会续订。
 
 ## <a name="is-the-microsoft-365-developer-program-available-in-my-language"></a>该 Microsoft 365 开发人员计划是否提供我的语言版本？
 
@@ -212,7 +213,7 @@ Microsoft 365 开发人员订阅仅提供英语版本。
 
 2. 选择 **删除配置文件**。
 
-3. 在 **删除配置文件** 确认框中，选择**删除**。
+3. 在 **删除配置文件** 确认框中，选择 **删除**。
 
 ## <a name="support"></a>支持
 

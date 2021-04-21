@@ -1,25 +1,23 @@
 ---
-title: 设置 Microsoft 365 开发人员订阅
-description: 设置 Microsoft 365 开发人员订阅，构建独立于你的生产环境的解决方案。
+title: 设置 Microsoft 365 开发人员沙盒订阅
+description: 设置 Microsoft 365 开发人员订阅，以构建独立于生产环境的解决方案。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 4aa500e0688c43186d574e94e3f94081a87b89e4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601283"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890180"
 ---
-# <a name="set-up-a-microsoft-365-developer-subscription"></a>设置 Microsoft 365 开发人员订阅 
+# <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>设置 Microsoft 365 开发人员沙盒订阅 
 
 设置 Microsoft 365 开发人员订阅，构建独立于生产环境的解决方案。 此订阅为 Microsoft 365 E5 开发人员订阅，随附 25 个用户许可证。 许可证有效期为 90 天，仅可用于开发目的（编码解决方案）。 
 
-在 2019 年 8 月 25 日之前加入该计划的客户可获得 Office 365 E3 开发人员订阅。
-
 > [!NOTE] 
-> 要设置订阅，必须先[加入 Microsoft 365 开发人员计划](microsoft-365-developer-program.md)。 加入后，即可看到设置订阅的选项。
+> 若要设置订阅，必须首先直接或通过 Visual Studio Professional 或 Enterprise 订阅（如果你已订阅）[加入 Microsoft 365 开发人员计划](microsoft-365-developer-program.md)。 加入后，即可看到设置订阅的选项。
 
-## <a name="set-up-your-subscription"></a>设置订阅
+## <a name="set-up-your-microsoft-365-e5-sandbox-subscription"></a>设置 Microsoft 365 E5 沙盒订阅
 
 1. 要获取 Microsoft 365 开发人员订阅，请在配置文件页面上，选择“**设置订阅**”。
 
@@ -47,7 +45,7 @@ ms.locfileid: "42601283"
 
 2. 使用应用启动器转到 [管理员中心](https://admin.microsoft.com/AdminPortal/Home#/homepage)。
 
-3. 在管理员中心主页上，选择 **转到设置**。 这会转到 **Microsoft 365 E5 开发人员设置**页面。
+3. 在管理员中心主页上，选择 **转到设置**。 这会转到 **Microsoft 365 E5 开发人员设置** 页面。
 
 4. **个性化设置登录和电子邮件**。 可以将订阅连接到域，或只需使用你创建的现有子域。 准备就绪后，选择 **下一步**。
 
@@ -63,7 +61,7 @@ ms.locfileid: "42601283"
 8. **安装 Office 应用**。 可以选择在电脑上安装 Office 应用。 准备就绪后，选择 **下一步**。
 
    > [!TIP] 
-   > 随后访问仪表板时，转到仪表板之前请用你*username@domain*. onmicrosoft.com 帐户。
+   > 随后访问仪表板时，转到仪表板之前请用你 *username@domain*. onmicrosoft.com 帐户。
 
 9. **您已达到设置过程的结尾**。 已完成订阅设置。 您可以选择评价体验。 准备就绪后，选择 **转到管理员中心**。
     
@@ -72,7 +70,7 @@ ms.locfileid: "42601283"
 
 ## <a name="provision-microsoft-365-services"></a>预配 Microsoft 365 服务
 
-后端服务需要一些时间来预配订阅，例如 SharePoint 和 Exchange。 在此步骤期间，应用启动器中和主页上一些图标显示为**设置中 （此应用仍在设置中）**。 此步骤不会超过一个小时。
+后端服务需要一些时间来预配订阅，例如 SharePoint 和 Exchange。 在此步骤期间，应用启动器中和主页上一些图标显示为 **设置中 （此应用仍在设置中）**。 此步骤不会超过一个小时。
 
 预配完成后，即可使用新的 Microsoft 365 订阅用于开发。 订阅 90 天后到期。 如果要延期，请查看[我的订阅将要到期时，我是否可以续订？](microsoft-365-developer-program-faq.md#renew-subscription)
 

@@ -2,12 +2,12 @@
 title: 将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
 description: 了解如何在开发人员订阅上安装示例数据包，以快速启动并运行沙盒环境。
 localization_priority: Priority
-ms.openlocfilehash: 2cc7027ccad5b7971c1ae9d49416b9b25663c255
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600800"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890147"
 ---
 # <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
 
@@ -83,9 +83,117 @@ ms.locfileid: "42600800"
 
 3. 安装完成后，你将收到电子邮件通知，订阅磁贴上的框将显示为绿色。
 
+## <a name="how-do-i-install-the-sharepoint-sample-data-pack"></a>如何安装 SharePoint 示例数据包？
+
+SharePoint 示例数据包有七个不同的 SharePoint 网站模板可供选择，以体验和模拟用于协作、通信、参与和知识管理的 SharePoint 解决方案。
+
+这些是 [SharePoint PnP 外观手册](https://provisioning.sharepointpnp.com/) 中最受欢迎模板的一部分。 现在，创建美观、快速且在任何设备或屏幕上看起来非常精美的网站和页面的示例解决方案十分简单。 通过这些设计获取灵感，或将其添加到沙盒租户，以开始构建下一个网站。
+
+这些模板可以安装在你的订阅中。 安装一个模板后，可选择安装其他模板。 安装过程包括以下步骤：
+
+1. 从下拉菜单中选择所需模板。
+
+  ![SharePoint 模板选择屏幕的屏幕截图](images/select-sharepoint-template.jpg)
+
+2. 为网站配置自定义选项或接受默认值。
+3. 使用沙盒租户和密码的管理员 ID 进行身份验证并授予安装权限。 
+
+安装将自动继续。
+
+>**注意：** 这些网站模板的设置仅适用于英文版 Office 365 E3 或 Microsoft 365 E5 开发人员订阅，并且其中包含的所有内容均只提供英语版。
+
+## <a name="what-sharepoint-templates-are-available"></a>提供了哪些 SharePoint 模板？
+
+SharePoint 示例包由七个不同的模板组成。
+
+### <a name="team-site-with-data"></a>带有数据的团队网站
+
+此模板包括多个列表和文档库，它们与某个 SharePoint 团队网站自动关联，可帮助你使用 SharePoint 框架、Power Apps 和 Microsoft Graph 开发解决方案。
+
+此模板包含以下数据：
+
+- 包含预填充联系人的联系人列表
+- 填充了 6000 个项目以上的列表
+- 包含 PowerPoint、Excel、Word 和 OneNote 文档示例的文档库
+- 包含公告项的事件列表
+
+此模板与用户示例数据集成。
+
+### <a name="work--contoso"></a>Work @ Contoso
+Work @ Contoso 模板包含多个网站集，均与中心网站自动关联，以显示所有默认聚合功能的工作方式。
+
+此模板包含以下结构和资产：
+
+- 设置为中心网站的主网站集
+- 两个与中心网站相关联的通信网站 - 权益与慈善网站
+- 一个与中心网站团队网站相关联的组团队网站
+- 子网站集中的示例新闻文章
+- Word、Excel 和 PowerPoint 示例文件
+- 网站集内的示例图像内容
+
+子网站集使用相同的模板，也可以从此服务中单独预配。
+
+>**注意：** 如果在现有通信网站上应用此模板，将覆盖该网站的欢迎页面内容。
+
+### <a name="leadership-connection-leadership-news-events-engagement"></a>领导力连接：领导力新闻、活动、参与
+
+此领导力网站提供了对领导力团队目标和优先事项的见解，并鼓励参与活动与对话。
+
+将此设计添加到租户将创建以下内容：
+
+- 带有 Web 部件演示的示例欢迎页面
+- 演示不同新式页面设计的示例新闻文章
+
+此模板与用户示例数据集成。
+
+### <a name="the-landing-news-resources-personalized-content"></a>登陆：新闻、资源、个性化内容
+
+此通信网站旨在为员工提供所需的新闻和资源，以及专为他们量身定制的个性化内容。
+
+将此设计添加到租户将创建以下内容：
+
+- 门户主页网站的演示结构
+- 自定义欢迎页面结构
+- 其他 6 个示例新式页面和新闻文章
+- 示例图像和 Office 文档
+
+### <a name="the-perspective-news-video-personalized-content"></a>透视：新闻、视频、个性化内容
+
+该网站旨在提供新闻和个性化内容，还包括可用于鼓励更多参与的视频。
+将此设计添加到租户将创建以下内容：
+
+- 自定义欢迎页面设计
+- 新闻文章的示例页面模板
+- 12 篇示例新闻文章
+
+### <a name="new-employee-onboarding-hub-connect-engage-inform"></a>新员工加入中心：联系、参与、通知
+
+通过预构建的模板（包括预加入、公司级加入和部门级加入方案），简化和优化新员工的入职流程。 此数字解决方案提供了 4 种不同的网站模板，其中包含可以自定义以适应组织目标的预填充内容。
+
+将此设计添加到租户将创建以下内容：
+
+- 预入职网站、公司入职网站和两个部门入职网站
+- 每个网站的自定义和预填充主页
+- 公司入职的已配置中心网站和部门入职的已关联网站
+- SharePoint 列表上的新员工清单，帮助新员工成功入职
+- “人员” Web 部件、Yammer Web 部件、“新闻” Web 部件和“快速链接” Web 部件的示例内容
+- 为每个网站预编写的常见问题解答
+- 创建社交和参与体验的建议，例如，在预入职网站上使用 YouTube Web 部件包含欢迎视频
+
+### <a name="crisis-communications-announcements-news-resources-communities-and-calls-to-action"></a>紧急通信：公告、新闻、资源、社区和行动号召
+
+在从极端天气事件到卫生和安全紧急事件等各种危机期间，让人们了解情况、参与并向前推进。 该模板创建一个中央资源，供领导或通信者共享重要新闻和公告，是人们了解最新资讯的单一事实来源，也是连接整个组织人员的地方。
+
+将此设计添加到租户将创建以下内容：
+
+- 使用 Web 部件构建的自定义欢迎页面
+- 4 篇带有示例内容的新闻文章
+
+此模板与用户示例数据集成。
+
 ## <a name="are-more-sample-data-packs-coming"></a>是否会推出更多示例数据包？
 
-是。 我们将为 SharePoint 和 OneDrive 添加示例数据包。 将来，我们将考虑为更多产品和技术添加示例数据包，包括 Office 加载项、Microsoft Teams 等。
+是。 将来，我们将考虑为包括 Microsoft Teams 在内的更多产品和技术添加示例数据包。 如果你有关于希望查看的示例数据包的建议，请 [告知我们](https://officespdev.uservoice.com/forums/224641-feature-requests-and-feedback?category_id=171306)。
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>能否在其他 Microsoft 365 订阅上安装示例数据包？
 
@@ -93,11 +201,11 @@ ms.locfileid: "42600800"
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>如何查看我的订阅中的示例数据？
 
-安装“用户”示例数据包后，若要查看添加的用户，请在 Microsoft 365 开发人员订阅上转到 **Microsoft 365 管理中心**。 在“**用户**”下，选择“**活动用户**”。 你将会看到包含 16 个用户的列表。 你可以选择一个用户来查看相关联的元数据，包括照片和许可证。
+安装用户示例数据包后，若要查看已添加的用户，请在 Microsoft 365 开发人员订阅上转到 [**Microsoft 365 管理中心**](https://admin.microsoft.com/)。 在“**用户**”下，选择“**活动用户**”。 你将会看到包含 16 个用户的列表。 你可以选择一个用户来查看相关联的元数据，包括照片和许可证。
 
 ![Microsoft 365 管理中心内 16 个用户的屏幕截图，其中包含针对所选用户的元数据](images/content-packs-07.PNG)
 
-安装邮件和事件示例包后，若要查看示例数据，请在 **Microsoft 365 管理中心**内选择“**全部显示**”，然后选择“**Exchange**”。 在 Exchange 管理中心内，当你选择“**收件人**”时，你可以看到 16 个用户均拥有添加了邮件和事件的邮箱。
+安装邮件和事件示例包后，若要查看示例数据，请在 [**Microsoft 365 管理中心**](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) 内选择“**全部显示**”，然后选择“**Exchange**”。 在 Exchange 管理中心内，当你选择“**收件人**”时，你可以看到 16 个用户均拥有添加了邮件和事件的邮箱。
 ![添加到 Exchange 管理中心的 16 个用户的屏幕截图](images/content-packs-08.PNG)
 
 ## <a name="see-also"></a>另请参阅

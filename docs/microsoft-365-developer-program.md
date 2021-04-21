@@ -1,17 +1,19 @@
 ---
-title: 加入 Microsoft 365 开发人员计划
+title: 欢迎使用 Microsoft 365 开发人员计划
 description: 加入 Microsoft 365 开发人员计划，开发独立于你的生产环境的 Microsoft 365 解决方案。
 localization_priority: Priority
-ms.openlocfilehash: f058f69ea726f948e1aa30232fe611d7f459a2f4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601282"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890156"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>欢迎使用 Microsoft 365 开发人员计划
 
-和你的朋友同事一起加入 Microsoft 365 开发人员计划。 使用 Microsoft 365 开发人员订阅，开发独立于你的生产环境的解决方案。 你可以构建 Microsoft Teams、Office 外接程序、Microsoft Graph、SharePoint Framework、SharePoint 外接程序以及更多解决方案。
+Microsoft 365 开发人员计划包括 Microsoft 365 E5 开发人员订阅，可用于创建自己的沙盒并开发独立于生产环境的解决方案。 可以使用 Microsoft Graph、SharePoint 框架 和 Power Apps 等构建 Microsoft Teams 应用、适用于 Word、Excel、PowerPoint 或 Outlook 的 Office 加载项，或 SharePoint 外接程序。
+
+是否拥有 Visual Studio Pro 或 Enteprise 订阅？ 如果是这样，加入计划可以享有其他权益；有关详细信息，请参阅 [加入 Visual Studio](join-with-visual-studio.md)。
 
 ## <a name="join-the-microsoft-365-developer-program"></a>加入 Microsoft 365 开发人员计划
 
@@ -24,7 +26,7 @@ ms.locfileid: "42601282"
 
 3. 登录后，选择 **立即加入**。
 
-4. 在 **Microsoft 365 开发人员计划注册**页面，填写在线表单的以下字段：
+4. 在 **Microsoft 365 开发人员计划注册** 页面，填写在线表单的以下字段：
 
     - 联系电子邮件地址
     - 国家/地区
@@ -36,13 +38,13 @@ ms.locfileid: "42601282"
 
 7. 选择“**下一步**”。
 
-8. 在 **Microsoft 365 开发人员计划首选项**页面上，告诉我们你的首选项，以便我们根据你的体验来个性化设置，包括：
+8. 在 **Microsoft 365 开发人员计划首选项** 页面上，告诉我们你的首选项，以便我们个性化设置你的体验，包括：
 
     - 您所在的行业。
     - 你有兴趣开发的应用程序或解决方案类型。
     - 您感兴趣的产品、 技术和编程语言。
 
-9. 完成后，选择 **加入**。 你的首选项会出现在下一页面右上角，并且会收到一条欢迎消息。
+9. 完成后，选择 **加入**。 你的首选项会出现在下一页面右上角，并将看到一条欢迎消息，收到一封欢迎电子邮件。
 
 
 
