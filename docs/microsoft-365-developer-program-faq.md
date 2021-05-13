@@ -3,12 +3,12 @@ title: Microsoft 365 开发人员计划常见问题解答
 description: 有关 Microsoft 365 开发人员计划的常见问题解答。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: cbc15fbfaf5873a21eda6d100b590121fe2328cb
+ms.sourcegitcommit: c70eb4a7cab5b403e602d7ddf8abf3cff5054346
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890187"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52331322"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>Microsoft 365 开发人员计划常见问题解答
 
@@ -148,7 +148,7 @@ Office 365 E3 或 Microsoft 365 E5 开发人员订阅包括 25 个用户许可�
 
 ## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>如何确定订阅是否可续订？
 
-我们使用一系列算法和通过 Microsoft 365 开发人员计划和 Office 365 E3 或 Microsoft 365 E5 开发人员订阅中你的活动获得的遥测数据，确定你是否正在积极进行开发。 我们定期查看这些遥测数据，更新你的状态，并确定你的订阅是否应延期。 
+我们使用一系列算法和从你在 Microsoft 365 开发人员计划和 Office 365 E3 或 Microsoft 365 E5 开发人员订阅上的活动获得的遥测数据，确定你是否正在积极进行开发。我们定期检查这些信息，以更新你的状态，并确定是否应该延长你的订阅。 
 
 如果你认为我们未能正确跟踪你的开发活动，可以通过仪表板告诉我们。 要在仪表板警报中提交表单，告诉我们你将订阅用于开发的情况，请选择“**告诉我们**”链接，如下图所示。 我们将审阅你的请求，如果你符合延期条件，我们会通知你。 
 
@@ -168,9 +168,11 @@ Office 365 E3 或 Microsoft 365 E5 开发人员订阅包括 25 个用户许可�
 
 ## <a name="if-my-subscription-is-going-to-expire-how-much-time-do-i-have-before-it-is-deleted"></a>如果我的订阅将要过期，多长时间后会被删除？
 
-订阅过期后，你有 30 天时间迁移数据。 之后 30 天，仅管理员可访问此订阅，在第 60 天时，订阅和所有数据将被删除。
+订阅到期之后，你有 30 天时间迁移任何数据。在此后的 30 天内，仅管理员可访问此订阅，而在第 60 天时，将删除订阅和全部数据。
 
-<a name="account-types"> </a>
+## <a name="why-should-i-link-my-github-account"></a>我为何应该链接我的 GitHub 账户？
+
+在加入 Microsoft 365 开发人员计划时，在 [我的设置](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) 页面上，可以将 GitHub 账户链接到开发人员计划账户。 链接 GitHub 帐户将累积到 Microsoft 365 开发人员沙盒订阅的续订中。 还可通过转到 **我的设置** 页面的 [已链接账户](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) 选择取消链接账户。
 
 ## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>如何从 Office 365 E3 订阅迁移到 Microsoft 365 E5 订阅？
 
