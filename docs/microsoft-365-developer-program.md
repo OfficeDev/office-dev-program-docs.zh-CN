@@ -2,12 +2,12 @@
 title: 欢迎使用 Microsoft 365 开发人员计划
 description: 加入 Microsoft 365 开发人员计划，开发独立于你的生产环境的 Microsoft 365 解决方案。
 localization_priority: Priority
-ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890156"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206900"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>欢迎使用 Microsoft 365 开发人员计划
 
@@ -53,6 +53,6 @@ Microsoft 365 开发人员计划包括 Microsoft 365 E5 开发人员订阅，可
 - [设置 Microsoft 365 开发人员订阅](microsoft-365-developer-program-get-started.md)。 
 - 完成开发人员订阅后，[使用您的订阅](build-microsoft-365-solutions.md) 构建您想要的解决方案类型。
 - 有关即将到期的订阅的信息，请参阅[订阅到期和续订](subscription-expiration-and-renewal.md)。
-- 有关 Microsoft 365 开发人员计划的常见问题解答，请参阅[常见问题解答](microsoft-365-developer-program-faq.md)。
+- 有关 Microsoft 365 开发人员计划的常见问题解答，请参阅[常见问题解答](microsoft-365-developer-program-faq.yml)。
 
 

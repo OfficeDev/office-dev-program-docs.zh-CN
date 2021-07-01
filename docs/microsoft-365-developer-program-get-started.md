@@ -3,12 +3,12 @@ title: 设置 Microsoft 365 开发人员沙盒订阅
 description: 设置 Microsoft 365 开发人员订阅，以构建独立于生产环境的解决方案。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: c35814955abb2158a076d6ca566c3bf76fc5289f
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890180"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206914"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>设置 Microsoft 365 开发人员沙盒订阅 
 
@@ -72,7 +72,7 @@ ms.locfileid: "51890180"
 
 后端服务需要一些时间来预配订阅，例如 SharePoint 和 Exchange。 在此步骤期间，应用启动器中和主页上一些图标显示为 **设置中 （此应用仍在设置中）**。 此步骤不会超过一个小时。
 
-预配完成后，即可使用新的 Microsoft 365 订阅用于开发。 订阅 90 天后到期。 如果要延期，请查看[我的订阅将要到期时，我是否可以续订？](microsoft-365-developer-program-faq.md#renew-subscription)
+预配完成后，即可使用新的 Microsoft 365 订阅用于开发。 订阅 90 天后到期。 如果要延期，请查看[我的订阅将要到期时，我是否可以续订？](microsoft-365-developer-program-faq.yml#renew-subscription)
 
 我们还建议启用版本选项以确保你可以尽快访问新的 Microsoft 365 功能。 有关详细信息，请参阅[设置标准或定向版本选项](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47)。
 
@@ -89,4 +89,4 @@ ms.locfileid: "51890180"
 - [加入 Microsoft 365 开发人员计划团队](microsoft-365-developer-program.md)
 - [使用你的订阅来构建 Microsoft 365 解决方案](build-microsoft-365-solutions.md)
 - [续订即将到期的订阅](subscription-expiration-and-renewal.md)
-- [Microsoft 365 开发人员计划常见问题解答](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 开发人员计划常见问题解答](microsoft-365-developer-program-faq.yml)
