@@ -3,12 +3,12 @@ title: Microsoft 365 开发人员计划订阅到期和续订
 description: 有关如何续订即将到期的开发人员订阅的信息。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 1235a28e45babf60b7d40cf08bfcd7992184ff40
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: ae0d5f496537baf198504b28c6d9cf8ed6966aaf
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890194"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206907"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 开发人员计划订阅到期和续订
 
@@ -50,7 +50,7 @@ Microsoft 365 开发人员计划成员身份包括免费的 Office 365 E3 或 Mi
 
 ## <a name="why-isnt-my-current-subscription-renewable"></a>为什么我的当前订阅不可续订？
 
-我们在 2018 年 8 月引入了可续订的订阅。 如果在此之前注册了订阅，则订阅不可续订，需要在订阅到期时设置一个新的订阅。
+我们在 2018 年 8 月引入了可续订的订阅。如果在此之前注册了订阅，则该订阅不可续订，需要在订阅到期时设置新的订阅。
 
 <a name="migrate-data"> </a>
 
@@ -73,7 +73,7 @@ Microsoft 365 开发人员计划成员身份包括免费的 Office 365 E3 或 Mi
 - [加入 Microsoft 365 开发人员计划团队](microsoft-365-developer-program.md)
 - [设置 Microsoft 365 开发人员订阅](microsoft-365-developer-program-get-started.md)
 - [使用你的订阅来构建 Microsoft 365 解决方案](build-microsoft-365-solutions.md)
-- [Microsoft 365 开发人员计划常见问题解答](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 开发人员计划常见问题解答](microsoft-365-developer-program-faq.yml)
 
 
 
