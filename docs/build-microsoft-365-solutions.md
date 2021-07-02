@@ -2,12 +2,12 @@
 title: 使用开发人员订阅来构建 Microsoft 365 解决方案
 description: 使用 Microsoft 365 开发人员订阅来构建想要的解决方案。
 localization_priority: Priority
-ms.openlocfilehash: 2b2e68eb2e9ce474cf6e936c72aedd441e873ff3
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890135"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206893"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>使用开发人员订阅来构建 Microsoft 365 解决方案
 
@@ -55,10 +55,9 @@ Microsoft Teams 是一个基于聊天的工作区，它与用户所使用的应�
 
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 
-SharePoint Framework (SPFx) 是提供客户端 SharePoint 开发和与 SharePoint 数据简单集成完全支持及开放源代码工具支持的页面和 Web 部件模型。 借助 SharePoint Framework，可以在自己首选的开发环境中使用新式 Web 技术和工具生成具有可响应性和移动性的生产体验与应用。
+SharePoint 框架 (SPFx) 是页面和 Web 部件模型，不仅完全支持 SharePoint 客户端开发，还可与 SharePoint 数据轻松集成，并支持开放源代码工具。借助 SharePoint Framework，可以在自己首选的开发环境中使用新式 Web 技术和工具，以生成可响应、可移动的高效体验与应用。
 
-要自动配置沙盒以尝试不同的 SharePoint 模板和方案，请安装 SharePoint 示例数据包。
-有关详细信息，请参阅：
+想要通过自动配置沙盒尝试不同的 SharePoint 模板和方案，请安装 SharePoint 示例数据包。如需了解详细信息，请参阅：
 
 - [安装示例数据包](install-sample-packs.md)
 - [设置 SPFx 开发人员订阅](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -87,7 +86,7 @@ Power Apps 还提供了一个可扩展的平台，允许专业开发人员以编
 
 有关详细信息，请参阅：
 
-- [Power Apps](https://docs.microsoft.com/zh-CN/powerapps/)
+- [Power Apps](/powerapps/)
 - 观看 [Power Apps 演示](https://powerapps.microsoft.com/demo/)
 - 在 YouTube 上观看 [Power Apps 频道](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) 上的视频
 
@@ -97,4 +96,4 @@ Power Apps 还提供了一个可扩展的平台，允许专业开发人员以编
 - [加入 Microsoft 365 开发人员计划团队](microsoft-365-developer-program.md)
 - [设置 Microsoft 365 开发人员订阅](microsoft-365-developer-program-get-started.md) 
 - [续订即将到期的订阅](subscription-expiration-and-renewal.md)
-- [Microsoft 365 开发人员计划常见问题解答](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 开发人员计划常见问题解答](microsoft-365-developer-program-faq.yml)
