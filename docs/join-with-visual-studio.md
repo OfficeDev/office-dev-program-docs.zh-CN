@@ -1,13 +1,13 @@
 ---
 title: 通过 Visual Studio Professional 或 Enterprise 订阅加入 Microsoft 365 开发人员计划
 description: Microsoft 365 开发人员计划的所有新成员（包括 Visual Studio Professional 和 Enterprise 订阅者）可以注册 Microsoft 365 E5 开发人员订阅（不包括 Windows）。
-localization_priority: Priority
-ms.openlocfilehash: 43750cecdc07fbb382e09bf54b98c2d24031a03d
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: 863da13cd1126a031f26d043ca824d2c27784dd4
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890202"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396705"
 ---
 # <a name="join-the-microsoft-365-developer-program-with-a-visual-studio-professional-or-enterprise-subscription"></a>通过 Visual Studio Professional 或 Enterprise 订阅加入 Microsoft 365 开发人员计划
 

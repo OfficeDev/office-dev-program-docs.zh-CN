@@ -1,13 +1,13 @@
 ---
 title: 使用开发人员订阅来构建 Microsoft 365 解决方案
 description: 使用 Microsoft 365 开发人员订阅来构建想要的解决方案。
-localization_priority: Priority
-ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206893"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396674"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>使用开发人员订阅来构建 Microsoft 365 解决方案
 
@@ -45,7 +45,7 @@ Microsoft Teams 是一个基于聊天的工作区，它与用户所使用的应�
 
 有关详细信息，请参阅 [使用示例数据包](install-sample-packs.md)。 
 
-有关开始使用 Microsoft Graph 的更多方式，请参阅 [开始生成 Microsoft Graph 应用](https://developer.microsoft.com/zh-CN/graph/get-started) 或 Microsoft Graph[快速入门](https://developer.microsoft.com/zh-CN/graph/quick-start)。
+有关开始使用 Microsoft Graph 的更多方式，请参阅 [开始生成 Microsoft Graph 应用](https://developer.microsoft.com/en-us/graph/get-started) 或 Microsoft Graph[快速入门](https://developer.microsoft.com/en-us/graph/quick-start)。
 
 ## <a name="office-add-ins"></a>Office 加载项
 

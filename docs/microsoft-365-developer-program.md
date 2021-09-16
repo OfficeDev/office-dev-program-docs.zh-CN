@@ -1,13 +1,13 @@
 ---
 title: 欢迎使用 Microsoft 365 开发人员计划
 description: 加入 Microsoft 365 开发人员计划，开发独立于你的生产环境的 Microsoft 365 解决方案。
-localization_priority: Priority
-ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206900"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396691"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>欢迎使用 Microsoft 365 开发人员计划
 
@@ -17,7 +17,7 @@ Microsoft 365 开发人员计划包括 Microsoft 365 E5 开发人员订阅，可
 
 ## <a name="join-the-microsoft-365-developer-program"></a>加入 Microsoft 365 开发人员计划
 
-1. 转到[加入 Microsoft 365 开发人员计划](https://developer.microsoft.com/zh-CN/microsoft-365/dev-program)页。 
+1. 转到[加入 Microsoft 365 开发人员计划](https://developer.microsoft.com/en-us/microsoft-365/dev-program)页。 
 
 2. 在右上角，选择 **登录** 以使用 Microsoft 帐户或启用了 Azure Active Directory 的电子邮件登录。
 

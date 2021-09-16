@@ -2,13 +2,13 @@
 title: Microsoft 365 开发人员计划订阅到期和续订
 description: 有关如何续订即将到期的开发人员订阅的信息。
 ms.date: 04/01/2019
-localization_priority: Priority
-ms.openlocfilehash: ae0d5f496537baf198504b28c6d9cf8ed6966aaf
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206907"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396712"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 开发人员计划订阅到期和续订
 
