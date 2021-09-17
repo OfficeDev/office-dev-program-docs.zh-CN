@@ -1,13 +1,13 @@
 ---
 title: 将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
 description: 了解如何在开发人员订阅上安装示例数据包，以快速启动并运行沙盒环境。
-localization_priority: Priority
-ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: fb111d13a940fc5dffbba12b092a8f2bfd313872
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890147"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396719"
 ---
 # <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
 
@@ -57,7 +57,7 @@ ms.locfileid: "51890147"
 
 ![显示权限许可对话框的屏幕截图](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
-5. 为所有示例用户配置密码。 你需要定义一个共享密码，以便轻松管理所有虚构用户。
+5. 为所有示例用户配置密码。需要定义一个共享密码，以便轻松管理所有虚构用户。
 
 ![用于添加共享用户密码的对话框的屏幕截图](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
@@ -197,7 +197,7 @@ Work @ Contoso 模板包含多个网站集，均与中心网站自动关联，�
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>能否在其他 Microsoft 365 订阅上安装示例数据包？
 
-否。 这些示例数据包仅与作为 Microsoft 365 开发人员计划的一部分获取的 Microsoft 365 开发人员订阅兼容。
+否。这些示例数据包仅与作为 Microsoft 365 开发人员计划一部分获取的 Microsoft 365 开发人员订阅兼容。
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>如何查看我的订阅中的示例数据？
 
