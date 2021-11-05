@@ -2,12 +2,12 @@
 title: 使用开发人员订阅来构建 Microsoft 365 解决方案
 description: 使用 Microsoft 365 开发人员订阅来构建想要的解决方案。
 ms.localizationpriority: high
-ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
+ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396674"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725018"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>使用开发人员订阅来构建 Microsoft 365 解决方案
 
@@ -76,7 +76,7 @@ SharePoint 加载项为独立式功能，可扩展 SharePoint 网站功能，从
 
 ## <a name="power-apps"></a>Power Apps
 
-Power Apps 包含在 Microsoft 365 E5 开发人员订阅许可证中。 
+Power Apps for Office 365 包含在 Microsoft 365 E5 开发人员订阅许可证中。 这意味着你可以使用[标准连接器](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors)创建和测试不受限制的应用。 若要使用[高级](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors)或自定义连接器以及 Dataverse，则需要另外提供一个许可证。 出于开发和测试目的，可以使用 [Power Apps 开发人员计划](https://powerapps.microsoft.com/developerplan)。 
 
 Power Apps 是一个应用、服务、连接器和数据平台套件，可提供快速应用程序开发环境，以为你的业务需求构建自定义应用。 使用 Power Apps，可以快速生成连接到业务数据的自定义业务应用，无论这些数据是存储在基础数据平台（普通数据服务）上，还是存储在各种联机和本地数据源（SharePoint、Microsoft 365、Dynamics 365、SQL Server 等）中。
 
