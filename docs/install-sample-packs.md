@@ -2,12 +2,12 @@
 title: 将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
 description: 了解如何在开发人员订阅上安装示例数据包，以快速启动并运行沙盒环境。
 ms.localizationpriority: high
-ms.openlocfilehash: 85bdbc5cbcb6daaf40beeef7e0138909361d6cd1
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60725035"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793531"
 ---
 # <a name="developer-sandbox-sample-data"></a>开发人员沙盒示例数据
 
@@ -70,19 +70,19 @@ Microsoft 365 开发人员计划沙盒订阅附带示例数据，可提供生成
 3. 在登录页面上输入你的管理员 ID 和密码。
 4. 以 Microsoft 365 开发人员订阅管理员身份许可权限。
 
-![显示权限许可对话框的屏幕截图](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
+  ![显示权限许可对话框的屏幕截图](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. 为所有示例用户配置密码。需要定义一个共享密码，以便轻松管理所有虚构用户。
 
-![用于添加共享用户密码的对话框的屏幕截图](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
+  ![用于添加共享用户密码的对话框的屏幕截图](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. 系统将安装数据。 安装过程大约需要 5 分钟时间。
 
-![显示仪表板磁贴上的安装进程的屏幕截图](images/sample-data-pack-ux-tile-users-installing-status.PNG)
+  ![显示仪表板磁贴上的安装进程的屏幕截图](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. 安装完成后，你将收到电子邮件通知，订阅磁贴上的框将显示为绿色。 你现在可以安装邮件和事件示例数据包。
 
-![准备安装邮件和事件的仪表板磁贴的屏幕截图](images/sample-data-pack-ux-tile-users-installed.PNG)
+  ![准备安装邮件和事件的仪表板磁贴的屏幕截图](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ### <a name="install-the-mail--events-sample-data-pack"></a>安装邮件和事件示例数据包
 
@@ -91,10 +91,10 @@ Microsoft 365 开发人员计划沙盒订阅附带示例数据，可提供生成
 1. 选择订阅磁贴上的“**邮件和事件**”框。
 2. 选择“**安装**”以开始安装。
 
-![安装对话框的屏幕截图](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
+  ![安装对话框的屏幕截图](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
-> [!NOTE]
-> 如果你刚刚创建了订阅，则必须先完整配置它，然后才能开始安装。 这可能需要几个小时。 安装开始后，最多可能需要 20 分钟才能完成。
+  > [!NOTE]
+  > 如果你刚刚创建了订阅，则必须先完整配置它，然后才能开始安装。 这可能需要几个小时。 安装开始后，最多可能需要 20 分钟才能完成。
 
 3. 安装完成后，你将收到电子邮件通知，订阅磁贴上的框将显示为绿色。
 

@@ -3,12 +3,12 @@ title: 设置 Microsoft 365 开发人员沙盒订阅
 description: 设置 Microsoft 365 开发人员订阅，以构建独立于生产环境的解决方案。
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 8671c4df2866ebe6adeef8ade428472ec850cd47
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60724840"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793524"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>设置 Microsoft 365 开发人员沙盒订阅 
 
@@ -25,6 +25,8 @@ ms.locfileid: "60724840"
 
 此外，你可以获取预安装的示例数据，包括新的 Teams 示例数据包，以及 Microsoft Graph 用户、邮件和日历数据及 SharePoint 框架示例数据，这些都会模拟小型企业环境来帮助你跨 Microsoft 365 平台构建解决方案。 有关详细信息，请参阅开发人员沙盒示例数据。
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWOmCY]
+
 如果选择此选项，则不能自定义域名。
 
 ## <a name="configurable-sandbox"></a>可配置沙盒
@@ -39,14 +41,14 @@ ms.locfileid: "60724840"
 
 2. 在“**设置 Microsoft 365 E5 开发人员订阅**”对话框中，选择需要即时沙盒还是可配置沙盒，然后选择“**下一步**”。
 
-  ![“设置 Microsoft 365 E5 开发人员订阅”对话框的屏幕截图](images/set-up-your-subscription.png)
+    ![“设置 Microsoft 365 E5 开发人员订阅”对话框的屏幕截图](images/set-up-your-subscription.png)
 
 如果选择即时沙盒，则：
 
 1.  为数据中心选择 **国家/地区**，并提供 **管理员用户名** 和 **管理员密码**，以及可选的虚拟用户的备用密码，然后选择“**继续**”。
 
-  > [!IMPORTANT] 
-  > 记下用户名和密码，因为需要用它来访问开发人员订阅。
+    > [!IMPORTANT] 
+    > 记下用户名和密码，因为需要用它来访问开发人员订阅。
 
 2.  提供有效的手机号码，然后选择“**发送代码**”。 输入你收到的代码，然后选择“**设置**”。
 3.  创建好订阅后，订阅域名和到期日期会出现在配置文件页。
@@ -55,8 +57,8 @@ ms.locfileid: "60724840"
 
 1.  选择 **国家/地区**，然后在“**创建用户名**”字段中提供用户名，在“**创建域字段**”中提供域名。 创建并确认密码，然后选择“**继续**”。
 
-  > [!IMPORTANT] 
-  > 记下用户名和密码，因为需要用它来访问开发人员订阅。
+    > [!IMPORTANT] 
+    > 记下用户名和密码，因为需要用它来访问开发人员订阅。
 
 2.  提供有效的手机号码，然后选择“**发送代码**”。 输入你收到的代码，然后选择“**设置**”。
 3.  创建好订阅后，订阅域名和到期日期会出现在配置文件页。
@@ -79,8 +81,8 @@ ms.locfileid: "60724840"
 
 6. **添加新用户**。 可添加虚构或真实的用户来帮助你进行开发。 准备就绪后，选择“**添加用户并分配许可证**”。
     
-  > [!NOTE]
-  > 如果你有可配置订阅，设置订阅后，即可安装用户示例数据包。 用户示例数据包将在你的订阅上创建 16 个虚构用户，并包含每位用户的许可证、邮箱、姓名、元数据和照片。 有关详细信息，请参阅[开发人员沙盒示例数据](install-sample-packs.md)。
+    > [!NOTE]
+    > 如果你有可配置订阅，设置订阅后，即可安装用户示例数据包。 用户示例数据包将在你的订阅上创建 16 个虚构用户，并包含每位用户的许可证、邮箱、姓名、元数据和照片。 有关详细信息，请参阅[开发人员沙盒示例数据](install-sample-packs.md)。
 
 6. **向未经授权用户分配许可证**。 对于你想让其能够使用订阅的任何用户，向其授予许可证。 准备就绪后，选择“**添加用户并分配许可证**”或“**稍后再说**”。
 
