@@ -2,18 +2,20 @@
 title: 将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
 description: 了解如何在开发人员订阅上安装示例数据包，以快速启动并运行沙盒环境。
 ms.localizationpriority: high
-ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793531"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889452"
 ---
 # <a name="developer-sandbox-sample-data"></a>开发人员沙盒示例数据
 
 Microsoft 365 开发人员计划沙盒订阅附带示例数据，可提供生成和测试解决方案所需的数据和内容，从而节省时间。
 
 ![示例数据包按钮的屏幕截图](images/sample-data-packs.PNG)
+
+## <a name="sample-data-installed-on-the-instant-sandbox"></a>在即时沙盒上安装的示例数据
 
 如果有即时沙盒，则表明示例数据包已预安装。 即时沙盒包含以下示例数据：
 
@@ -26,12 +28,12 @@ Microsoft 365 开发人员计划沙盒订阅附带示例数据，可提供生成
     ![Teams 开发人员门户的屏幕截图](images/teams-developer-portal.PNG)
 - **SharePoint 框架示例数据** - 从六个网站模板中进行选择，可将这些模板作为组织的自定义解决方案（预安装一个）进行安装和评估。
 
+## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>在可配置沙盒中安装示例数据包
+
 如果你有一个可配置的沙盒，则可以快速安装示例数据，以便你可以专注于解决方案，而不是花时间亲自创建示例数据。
 
 > [!NOTE] 
 > 无法在任何其他 Microsoft 365 订阅上安装示例数据包。 这些示例数据包仅与作为 Microsoft 365 开发人员计划的一部分获取的 Microsoft 365 开发人员沙盒订阅兼容。
-
-## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>在可配置沙盒中安装示例数据包
 
 可以在订阅磁贴底部的 [Microsoft 365 开发人员计划仪表板](https://developer.microsoft.com/microsoft-365/profile)上找到示例数据包。
 

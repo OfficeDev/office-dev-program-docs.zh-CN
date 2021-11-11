@@ -3,12 +3,12 @@ title: 设置 Microsoft 365 开发人员沙盒订阅
 description: 设置 Microsoft 365 开发人员订阅，以构建独立于生产环境的解决方案。
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793524"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889445"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>设置 Microsoft 365 开发人员沙盒订阅 
 
@@ -51,6 +51,10 @@ ms.locfileid: "60793524"
     > 记下用户名和密码，因为需要用它来访问开发人员订阅。
 
 2.  提供有效的手机号码，然后选择“**发送代码**”。 输入你收到的代码，然后选择“**设置**”。
+
+    > [!NOTE] 
+    > 必须使用有效的手机号码，而不是 IP 语音 (VoIP)。
+
 3.  创建好订阅后，订阅域名和到期日期会出现在配置文件页。
 
 如果选择可配置沙盒，则：

@@ -4,12 +4,12 @@ metadata:
   description: 有关 Microsoft 365 开发人员计划的常见问题解答。
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: 288754708eb5a589dad6a6304a0f252cf60fe3b2
-  ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+  ms.openlocfilehash: fbc4aae63cb03207a095ca6014d7c92394544eeb
+  ms.sourcegitcommit: 7d83b21fd60e5e6b43b4ebcca5c5a411c8149a7b
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 11/03/2021
-  ms.locfileid: "60725025"
+  ms.lasthandoff: 11/11/2021
+  ms.locfileid: "60907201"
 title: Microsoft 365 开发人员计划常见问题解答
 summary: 以下为有关 Microsoft 365 开发人员计划的常见问题解答。
 sections:
@@ -82,21 +82,24 @@ sections:
       <a name="account-types"> </a>
   - question: >
       如何从 Office 365 E3 订阅迁移到 Microsoft 365 E5 订阅？
-    answer: "目前，仅新的 Microsoft 365 开发人员计划成员能自动获得 Microsoft 365 E5 开发人员订阅。 将提供给现有用户一个迁移到 Microsoft 365 E5 订阅的选项。 \n\n如果你选择迁移到 Microsoft 365 E5 订阅，可以使用[免费的 Microsoft Mover](https://mover.io/)工具迁移你的数据。 另请参阅以下资源：\n\n- [如何将邮箱从一个Microsoft 365租户迁移到另一个租户](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [使用 PowerShell 执行到迁移的Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [将内容迁移到 Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)。\n"
+    answer: "目前，仅新的 Microsoft 365 开发人员计划成员能自动获得 Microsoft 365 E5 开发人员订阅。 将为现有用户提供一个迁移到 Microsoft 365 E5 订阅的选项。 \n\n如果你选择迁移到 Microsoft 365 E5 订阅，可以使用[免费的 Microsoft Mover](https://mover.io/)工具迁移你的数据。 另请参阅以下资源：\n\n- [如何将邮箱从一个Microsoft 365租户迁移到另一个租户](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [使用 PowerShell 执行到迁移的Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [将内容迁移到 Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)。\n"
   - question: >
       我应选择即时沙盒还是可配置的沙盒？
-    answer: "如果选择即时沙盒，可以将沙盒配置时间从数天减少为秒。 该Microsoft 365沙盒预预配了Microsoft Teams、SharePoint、Outlook和Office。 它还包括适用于 24 个测试用户和一个管理员的许可证，以及适用于电脑和 Mac 的最新 Microsoft 365 应用，包括 Power Apps、Power BI、企业移动性 + 安全性、Office 365 高级威胁防护和 Azure Active Directory。\n\n此外，你可获取预安装的示例数据，包括新的 Teams 示例数据包，该包模拟小型企业环境，以帮助你跨 Microsoft 365 平台生成解决方案。 有关详细信息，请参阅开发人员沙盒示例数据。\n\n如果您选择一个可配置的沙盒，您将具有一个必须使用示例数据填充的空沙盒。 此沙盒最多可能需要两天的预配时间。 你可以选择安装开发人员计划仪表板上提供的示例数据包。 可以使用此选项自定义域名。 \n"
+    answer: "如果选择即时沙盒，你可以将沙盒配置时间从几天缩短到几秒钟。 Microsoft 365 即时沙盒预先配置了 Microsoft Teams、SharePoint、Outlook 和 Office。 它还包括适用于 24 名测试用户和一名管理员的许可证，以及适用于电脑和 Mac 的最新 Microsoft 365 应用，包括 Power Apps、Power BI、企业移动性 + 安全性、Office 365 高级威胁防护和 Azure Active Directory。\n\n此外，你可获取预安装的示例数据，包括新的 Teams 示例数据包，该包模拟小型企业环境，以帮助你跨 Microsoft 365 平台生成解决方案。 有关详细信息，请参阅开发人员沙盒示例数据。\n\n如果您选择一个可配置的沙盒，您将具有一个必须使用示例数据填充的空沙盒。 此沙盒最多可能需要两天的预配时间。 你可以选择安装开发人员计划仪表板上提供的示例数据包。 可以使用此选项自定义域名。 \n"
+  - question: >
+      如何在我的即时Teams中查找示例数据？
+    answer: >
+      若要查看 Microsoft Teams 示例数据，请转到 Microsoft 365 E5 订阅中的“**Teams**”。 在“Teams”选项卡上，你将看到一些预先创建的团队与 **Mark 8 项目团队** 中的示例用户聊天。 App Studio/Dev Portal 应用已预安装并固定到导航窗格。
   - question: >
       我为何应该链接我的 GitHub 账户？
-    answer: >
-      在加入 Microsoft 365 开发人员计划时，在 [我的设置](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) 页面上，可以将 GitHub 账户链接到开发人员计划账户。 链接 GitHub 帐户将累积到 Microsoft 365 开发人员沙盒订阅的续订中。 还可通过转到 **我的设置** 页面的 [已链接账户](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) 选择取消链接账户。
+    answer: "在加入 Microsoft 365 开发人员计划时，在 [我的设置](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) 页面上，可以将 GitHub 账户链接到开发人员计划账户。 链接 GitHub 帐户将累积到 Microsoft 365 开发人员沙盒订阅的续订中。 还可通过转到 **我的设置** 页面的 [已链接账户](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) 选择取消链接账户。\n  \n"
   - question: >
       是否可以在 Office 365 E3 和 Microsoft 365 E5 订阅两者之间进行选择？
-    answer: "目前，仅向新的开发人员计划成员提供Microsoft 365 E5订阅。 具有 Office 365 E3 订阅的现有成员可以选择保留其当前订阅，如果他们不需要 Microsoft 365 E5 中提供的新功能，也可以继续续订它，或者执行到 Microsoft 365 E5 订阅的一次升级。 开发人员计划成员只能有一个订阅。  \n"
+    answer: "目前，仅向新的开发人员计划成员提供Microsoft 365 E5订阅。 具有 Office 365 E3 订阅的现有成员可以选择保留其当前订阅，如果不需要 Microsoft 365 E5 中提供的新功能，也可以继续续订它，或者执行到 Microsoft 365 E5 订阅的一次升级。 开发人员计划成员只能有一个订阅。  \n"
   - question: >
-      开发人员Microsoft 365订阅是否受 MICROSOFT 云和 EUDB (欧盟数据) ？
+      开发人员Microsoft 365订阅是否受 Microsoft 云和 EUDB (欧盟数据) ？
     answer: >
-      不正确。 开发人员Microsoft 365免费订阅仅受条款和条件（而不是 EUDB[](terms-and-conditions.md)承诺）限制。 但是，作为预配过程的一部分，你可以选择订阅的国家/地区。
+      否。 开发人员Microsoft 365免费订阅仅受条款和条件而非 EUDB[](terms-and-conditions.md)承诺限制。 但是，作为预配过程的一部分，你可以选择订阅的国家/地区。
   - question: "作为 Microsoft 合作伙伴，我可以接收订阅吗？ \n"
     answer: "是的，你可以按照[以下说明操作](microsoft-365-developer-program.md)加入 Microsoft 365 开发人员计划并设置 Microsoft 365 开发人员订阅。 但是，如果已拥有 Visual Studio Enterprise 或 Visual Studio Professional 订阅，也可以享有获取 Microsoft 365 开发人员订阅的权益。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 \n"
   - question: >
@@ -113,7 +116,7 @@ sections:
       Microsoft 365 开发人员订阅仅提供英语版本。
 
 
-      开发人员计划网站提供以下语言版本：中文 (简体) 、法语、德语、日语、葡萄牙语 (巴西) 、俄语和西班牙语。
+      开发人员计划网站提供以下语言版本：中文 (简体中文) 、法语、德语、日语、葡萄牙语 (巴西) 、俄语和西班牙语。
   - question: >
       如何退出 Microsoft 365 开发人员计划团队？
     answer: >
