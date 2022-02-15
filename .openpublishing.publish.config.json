@@ -17,7 +17,11 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": ["v-mipop@microsoft.com","v-jijaku@microsoft.com"],
+  "notification_subscribers": [
+    "v-mipop@microsoft.com",
+    "v-jijaku@microsoft.com"
+  ],
+  "sync_notification_subscribers": null,
   "branches_to_filter": [
     "live-sxs",
     "master-sxs"
@@ -30,7 +34,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     },
     {
@@ -39,7 +43,7 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "main": "main"
       }
     }
   ],
