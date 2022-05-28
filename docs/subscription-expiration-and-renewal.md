@@ -3,16 +3,16 @@ title: Microsoft 365 开发人员计划订阅到期和续订
 description: 有关如何续订即将到期的开发人员订阅的信息。
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: ddc03b8c1c7f1284fd557e2f5c11b95dec034825
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396712"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751514"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 开发人员计划订阅到期和续订
 
-Microsoft 365 开发人员计划成员身份包括免费的 Office 365 E3 或 Microsoft 365 E5 开发人员订阅。 可以基于开发活动续订开发人员订阅；但是，一些较早的订阅确实会过期。 本文介绍可续订的订阅和不可续订的订阅之间的区别，以及如何在订阅到期时更新订阅。
+Microsoft 365 开发人员计划成员身份包括免费的 Microsoft 365 E5 开发人员订阅。 可以基于开发活动续订开发人员订阅；但是，一些较早的订阅确实会过期。 本文介绍可续订的订阅和不可续订的订阅之间的区别，以及如何在订阅到期时更新订阅。
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>即将过期的与可续订的开发人员订阅
 

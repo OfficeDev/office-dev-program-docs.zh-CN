@@ -2,18 +2,18 @@
 title: 欢迎使用 Microsoft 365 开发人员计划
 description: 加入 Microsoft 365 开发人员计划，开发独立于你的生产环境的 Microsoft 365 解决方案。
 ms.localizationpriority: high
-ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 2294565eb909f5fddcf69ddf3d70a3684df4f23b
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396691"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751500"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>欢迎使用 Microsoft 365 开发人员计划
 
 Microsoft 365 开发人员计划包括 Microsoft 365 E5 开发人员订阅，可用于创建自己的沙盒并开发独立于生产环境的解决方案。 可以使用 Microsoft Graph、SharePoint 框架 和 Power Apps 等构建 Microsoft Teams 应用、适用于 Word、Excel、PowerPoint 或 Outlook 的 Office 加载项，或 SharePoint 外接程序。
 
-是否拥有 Visual Studio Pro 或 Enteprise 订阅？ 如果是这样，加入计划可以享有其他权益；有关详细信息，请参阅 [加入 Visual Studio](join-with-visual-studio.md)。
+是否拥有 Visual Studio Pro 或企业版订阅？ 如果是这样，加入计划可以享有其他权益；有关详细信息，请参阅 [加入 Visual Studio](join-with-visual-studio.md)。
 
 ## <a name="join-the-microsoft-365-developer-program"></a>加入 Microsoft 365 开发人员计划
 
