@@ -2,12 +2,12 @@
 title: 使用开发人员订阅来构建 Microsoft 365 解决方案
 description: 使用 Microsoft 365 开发人员订阅来构建想要的解决方案。
 ms.localizationpriority: high
-ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: 75dab54d4dada18663eed11b3ed6a937a3d753cd
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60725018"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827288"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>使用开发人员订阅来构建 Microsoft 365 解决方案
 
@@ -97,3 +97,4 @@ Power Apps 还提供了一个可扩展的平台，允许专业开发人员以编
 - [设置 Microsoft 365 开发人员订阅](microsoft-365-developer-program-get-started.md) 
 - [续订即将到期的订阅](subscription-expiration-and-renewal.md)
 - [Microsoft 365 开发人员计划常见问题解答](microsoft-365-developer-program-faq.yml)
+- [Microsoft 365 开发人员文档](/microsoft-365/developer)
