@@ -2,12 +2,12 @@
 title: 将示例数据包与 Microsoft 365 开发人员计划订阅结合使用
 description: 了解如何在开发人员订阅上安装示例数据包，以快速启动并运行沙盒环境。
 ms.localizationpriority: high
-ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
+ms.openlocfilehash: a9d93e75b23e08ad49c960e0d4f1559e33193f5e
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889452"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827295"
 ---
 # <a name="developer-sandbox-sample-data"></a>开发人员沙盒示例数据
 
@@ -104,7 +104,7 @@ Microsoft 365 开发人员计划沙盒订阅附带示例数据，可提供生成
 
 SharePoint 示例数据包有六个不同的 SharePoint 网站模板可供选择，以体验和模拟用于协作、通信、参与和知识管理的 SharePoint 解决方案。
 
-这些是 [SharePoint PnP 外观手册](https://provisioning.sharepointpnp.com/) 中最受欢迎模板的一部分。 现在，创建美观、快速且在任何设备或屏幕上看起来非常精美的网站和页面的示例解决方案十分简单。 通过这些设计获取灵感，或将其添加到沙盒租户，以开始构建下一个网站。
+这些是 [SharePoint PnP 外观手册](https://lookbook.microsoft.com) 中最受欢迎模板的一部分。 现在，创建美观、快速且在任何设备或屏幕上看起来非常精美的网站和页面的示例解决方案十分简单。 通过这些设计获取灵感，或将其添加到沙盒租户，以开始构建下一个网站。
 
 这些模板可以安装在你的订阅中。 安装一个模板后，可选择安装其他模板。 安装过程包括以下步骤：
 
