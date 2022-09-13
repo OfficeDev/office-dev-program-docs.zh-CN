@@ -4,12 +4,12 @@ metadata:
   description: 有关 Microsoft 365 开发人员计划的常见问题解答。
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: 6a5f99caf2938275984546fcd2e3e6a57dfaca57
-  ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
+  ms.openlocfilehash: b377aaf6e30fd2f89dde8c3015532e635ca2e15c
+  ms.sourcegitcommit: 38b2101824afc7693c09370a3f0d0d7dd689b6ef
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 05/27/2022
-  ms.locfileid: "65751507"
+  ms.lasthandoff: 09/13/2022
+  ms.locfileid: "67667458"
 title: Microsoft 365 开发人员计划常见问题解答
 summary: 以下为有关 Microsoft 365 开发人员计划的常见问题解答。
 sections:
@@ -50,7 +50,11 @@ sections:
       使用设置开发人员订阅时创建的管理员 ID。 可在[开发人员计划仪表板](https://aka.ms/DevProgramDashboard)上的订阅磁贴上找到管理员 ID。
   - question: >
       开发人员订阅中包含了哪些内容？
-    answer: "如果你在 2019 年 8 月 25 日后创建了订阅，则可获得包括 25 个用户许可证的 Office 365 E5 开发人员订阅。 在 2019 年 8 月 25 日之前加入该计划的客户可获得包括 25 个用户许可证的 Office 365 E3 开发人员订阅。\n\nOffice 365 E3 开发人员订阅包括以下内容：\n\n- [Exchange Online（计划 2）](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)\n- [用于 Office 365 的流](https://flow.microsoft.com/pricing/)\n- [Office 365 信息保护 - 标准](https://products.office.com/en-us/business/azure-information-protection-for-office-365)\n- [Microsoft Forms（计划 E5）](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)\n- [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)\n- \n  [Microsoft 搜索](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)\n- [适用于 Office 365 E5 SKU 的 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)\n- [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)\n- [Office 365 移动设备管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)\n- [Office 365 专业增强版](https://products.office.com/business/office-365-proplus-business-software)\n- [Office 网页版](/office365/servicedescriptions/office-online-service-description/office-online-service-description)\n- [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)\n- [面向开发人员的 SharePoint Online](https://products.office.com/SharePoint/compare-sharepoint-plans)\n- [Skype for Business Online（计划 2）](https://products.office.com/skype-for-business/online-meeting-solutions)\n- [Sway](https://sway.com/)\n- [待办事项 （计划 3）](https://todo.microsoft.com)\n- [白板（计划 2）](https://products.office.com/en-us/microsoft-whiteboard/digital-whiteboard-app)\n\nMicrosoft 365 E5 开发人员订阅包括 Office 365 E3 开发人员订阅中包含的所有应用，以及以下新增功能:  \n\n- Power BI 高级分析  \n- 用于合规性和信息保护的企业移动性 + 安全性 (EMS)  \n- Office 365 高级威胁防护 \n- 用于构建高级标识和访问管理解决方案的 Azure Active Directory  \n\nMicrosoft 365 E5 开发人员订阅包括以下内容： \n\n- Azure Active Directory Premium P1 \n- Azure Active Directory Premium P2 \n-   Azure 高级威胁防护 \n-   Azure 信息保护高级版 P1 \n-   Azure 信息保护高级版 P2 \n-   客户密码箱 \n-   Exchange Online（计划 2） \n-   Flow for Office 365 \n-   适用于 Office 365 的信息保护 - 高级版 \n-   适用于 Office 365 的信息保护 - 标准版 \n-   Microsoft Azure Active Directory 权限 \n-   Microsoft Azure 多重身份验证 \n-   Microsoft 云应用安全 \n-   Microsoft Forms（计划 E5） \n-   Microsoft Intune \n-   Microsoft MyAnalytics（完整版） \n-   Microsoft Planner \n-   Microsoft StaffHub \n-   Microsoft Stream for O365 E5 SKU \n-   Microsoft Teams \n-   Office 365 移动设备管理 \n-   Microsoft Purview 电子数据展示（高级版） \n-   Office 365 高级安全管理 \n-   Office 365 高级威胁防护（计划 1） \n-   Office 365 高级威胁防护（计划 2） \n-   Office 365 特权访问管理 \n-   Office 365 专业增强版 \n-   Office Online \n-   电话系统 \n-   Power BI Pro \n-   PowerApps for Office 365 计划 3 \n-   SharePoint Online（计划 2） \n-   Skype for Business Online (计划 2) \n-   Sway \n-   微软待办（计划 3） \n-   白板（计划 3） \n-   Yammer 企业版 \n\n可在[仪表板](https://developer.microsoft.com/office/profile)的订阅磁贴上看到你订阅的是 Microsoft 365 E5 还是 Office 365 E3。 该磁贴将在订阅域名下显示 E3 或 E5。\n"
+    answer: "如果你在 2019 年 8 月 25 日后创建了订阅，则可获得包括 25 个用户许可证的 Office 365 E5 开发人员订阅。 在 2019 年 8 月 25 日之前加入该计划的客户可获得包括 25 个用户许可证的 Office 365 E3 开发人员订阅。\n\nOffice 365 E3 开发人员订阅包括以下内容：\n\n- [Exchange Online（计划 2）](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)\n- [用于 Office 365 的流](https://flow.microsoft.com/pricing/)\n- [Office 365 信息保护 - 标准](https://products.office.com/en-us/business/azure-information-protection-for-office-365)\n- [Microsoft Forms（计划 E5）](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)\n- [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)\n- \n  [Microsoft 搜索](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)\n- [适用于 Office 365 E5 SKU 的 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)\n- [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)\n- [Office 365 移动设备管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)\n- [Office 365 专业增强版](https://products.office.com/business/office-365-proplus-business-software)\n- [Office 网页版](/office365/servicedescriptions/office-online-service-description/office-online-service-description)\n- [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)\n- [面向开发人员的 SharePoint Online](https://products.office.com/SharePoint/compare-sharepoint-plans)\n- [Skype for Business Online（计划 2）](/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description)\n- [Sway](https://sway.com/)\n- [待办事项 （计划 3）](https://todo.microsoft.com)\n- [白板（计划 2）](https://products.office.com/en-us/microsoft-whiteboard/digital-whiteboard-app)\n\nMicrosoft 365 E5 开发人员订阅包括 Office 365 E3 开发人员订阅中包含的所有应用，以及以下新增功能:  \n\n- Power BI 高级分析  \n- 用于合规性和信息保护的企业移动性 + 安全性 (EMS)  \n- Office 365 高级威胁防护 \n- 用于构建高级标识和访问管理解决方案的 Azure Active Directory  \n\nMicrosoft 365 E5 开发人员订阅包括以下内容： \n\n- Azure Active Directory Premium P1 \n- Azure Active Directory Premium P2 \n-   Azure 高级威胁防护 \n-   Azure 信息保护高级版 P1 \n-   Azure 信息保护高级版 P2 \n-   客户密码箱 \n-   Exchange Online（计划 2） \n-   Flow for Office 365 \n-   适用于 Office 365 的信息保护 - 高级版 \n-   适用于 Office 365 的信息保护 - 标准版 \n-   Microsoft Azure Active Directory 权限 \n-   Microsoft Azure 多重身份验证 \n-   Microsoft 云应用安全 \n-   Microsoft Forms（计划 E5） \n-   Microsoft Intune \n-   Microsoft MyAnalytics（完整版） \n-   Microsoft Planner \n-   Microsoft StaffHub \n-   Microsoft Stream for O365 E5 SKU \n-   Microsoft Teams \n-   Office 365 移动设备管理 \n-   Microsoft Purview 电子数据展示（高级版） \n-   Office 365 高级安全管理 \n-   Office 365 高级威胁防护（计划 1） \n-   Office 365 高级威胁防护（计划 2） \n-   Office 365 特权访问管理 \n-   Office 365 专业增强版 \n-   Office Online \n-   电话系统 \n-   Power BI Pro \n-   PowerApps for Office 365 计划 3 \n-   SharePoint Online（计划 2） \n-   Skype for Business Online (计划 2) \n-   Sway \n-   微软待办（计划 3） \n-   白板（计划 3） \n-   Yammer 企业版 \n\n可在[仪表板](https://developer.microsoft.com/office/profile)的订阅磁贴上看到你订阅的是 Microsoft 365 E5 还是 Office 365 E3。 该磁贴将在订阅域名下显示 E3 或 E5。\n"
+  - question: >
+      即时沙盒的功能是否不同于标准Microsoft 365 E5订阅？
+    answer: >
+      不支持用于Exchange Online的邮件流的入站连接器。 如果尝试创建连接器，则会收到以下错误：“执行请求时出错。 对于此服务产品/服务，无法在组织 <tenantID>中创建或更新入站连接器。
   - question: >
       订阅还包括对 Azure 的订阅吗？
     answer: "此项优惠不包括 Azure 的订阅。 但是，若要接受免费访问 Azure 服务，您可以 [创建一个免费的 Azure 帐户](https://azure.microsoft.com/free/)。 \n"
@@ -82,12 +86,12 @@ sections:
       <a name="account-types"> </a>
   - question: >
       如何从 Office 365 E3 订阅迁移到 Microsoft 365 E5 订阅？
-    answer: "目前，仅新的 Microsoft 365 开发人员计划成员能自动获得 Microsoft 365 E5 开发人员订阅。 现有用户将获得迁移到Microsoft 365 E5订阅的选项。 \n\n如果选择迁移到Microsoft 365 E5订阅，可以使用免费工具 [Microsoft Mover](https://mover.io/) 来迁移数据。 另请参阅以下资源：\n\n- [如何将邮箱从一个Microsoft 365租户迁移到另一个租户](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [使用 PowerShell 执行分阶段迁移到Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [将内容迁移到 Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)。\n"
+    answer: "目前，仅新的 Microsoft 365 开发人员计划成员能自动获得 Microsoft 365 E5 开发人员订阅。 现有用户将获得迁移到Microsoft 365 E5订阅的选项。 \n\n如果选择迁移到Microsoft 365 E5订阅，可以使用免费工具 [Microsoft Mover](https://mover.io/) 来迁移数据。 另请参阅以下资源：\n\n- [如何将邮箱从一个 Microsoft 365 租户迁移到另一个租户](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [使用 PowerShell 执行分阶段迁移到Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [将内容迁移到 Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)。\n"
   - question: >
       是否应选择即时沙盒或可配置沙盒？
-    answer: "如果选择即时沙盒，你可以将沙盒配置时间从几天缩短到几秒钟。 Microsoft 365 即时沙盒预先配置了 Microsoft Teams、SharePoint、Outlook 和 Office。 它还包括适用于 24 名测试用户和一名管理员的许可证，以及适用于电脑和 Mac 的最新 Microsoft 365 应用，包括 Power Apps、Power BI、企业移动性 + 安全性、Office 365 高级威胁防护和 Azure Active Directory。\n\n此外，你还会获得预安装的示例数据，包括新的Teams示例数据包，该数据包模拟小型企业环境，帮助你跨Microsoft 365平台构建解决方案。 有关详细信息，请参阅开发人员沙盒示例数据。\n\n如果选择可配置的沙盒，则将具有必须用示例数据填充的空沙盒。 此沙盒最多可能需要两天的预配时间。 可以选择安装开发人员程序仪表板上可用的示例数据包。 可以使用此选项自定义域名。 \n"
+    answer: "如果选择即时沙盒，你可以将沙盒配置时间从几天缩短到几秒钟。 Microsoft 365 即时沙盒预先配置了 Microsoft Teams、SharePoint、Outlook 和 Office。 它还包括适用于 24 名测试用户和一名管理员的许可证，以及适用于电脑和 Mac 的最新 Microsoft 365 应用，包括 Power Apps、Power BI、企业移动性 + 安全性、Office 365 高级威胁防护和 Azure Active Directory。\n\n此外，还可获取预安装的示例数据，包括新的 Teams 示例数据包，该数据包模拟小型企业环境，帮助你跨 Microsoft 365 平台构建解决方案。 有关详细信息，请参阅开发人员沙盒示例数据。\n\n如果选择可配置的沙盒，则将具有必须用示例数据填充的空沙盒。 此沙盒最多可能需要两天的预配时间。 可以选择安装开发人员程序仪表板上可用的示例数据包。 可以使用此选项自定义域名。 \n"
   - question: >
-      如何在即时沙盒中找到Teams示例数据？
+      如何在即时沙盒中找到 Teams 示例数据？
     answer: >
       若要查看 Microsoft Teams 示例数据，请转到 Microsoft 365 E5 订阅中的“**Teams**”。 在“Teams”选项卡上，你将看到一些预先创建的团队与 **Mark 8 项目团队** 中的示例用户聊天。 App Studio/Dev Portal 应用已预安装并固定到导航窗格。
   - question: >
@@ -97,9 +101,9 @@ sections:
       是否可以在 Office 365 E3 和 Microsoft 365 E5 订阅两者之间进行选择？
     answer: "目前，新的开发人员计划成员仅提供Microsoft 365 E5订阅。 拥有Office 365 E3订阅的现有成员可以选择保留其当前订阅，如果不需要在Microsoft 365 E5中提供的新功能，或对Microsoft 365 E5订阅进行一次性升级，则继续续订该订阅。 开发人员计划成员只能有一个订阅。  \n"
   - question: >
-      Microsoft 365开发人员订阅是否受 Microsoft 云 (EUDB) 的欧盟数据边界约束？
+      Microsoft 365 开发人员订阅是否受 Microsoft 云 (EUDB) 的欧盟数据边界约束？
     answer: >
-      否。 免费Microsoft 365开发人员订阅仅受[条款和条件](terms-and-conditions.md)约束，而不受 EUDB 承诺的约束。 但是，在预配过程中，可以选择订阅的国家/地区。
+      不需要。 免费的 Microsoft 365 开发人员订阅仅受 [条款和条件](terms-and-conditions.md) 约束，而不受 EUDB 承诺的约束。 但是，在预配过程中，可以选择订阅的国家/地区。
   - question: "作为 Microsoft 合作伙伴，我可以接收订阅吗？ \n"
     answer: "是的，你可以按照[以下说明操作](microsoft-365-developer-program.md)加入 Microsoft 365 开发人员计划并设置 Microsoft 365 开发人员订阅。 但是，如果已拥有 Visual Studio Enterprise 或 Visual Studio Professional 订阅，也可以享有获取 Microsoft 365 开发人员订阅的权益。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 \n"
   - question: >
