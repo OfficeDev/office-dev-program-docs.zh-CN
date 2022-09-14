@@ -4,12 +4,12 @@ metadata:
   description: 有关 Microsoft 365 开发人员计划的常见问题解答。
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: b377aaf6e30fd2f89dde8c3015532e635ca2e15c
-  ms.sourcegitcommit: 38b2101824afc7693c09370a3f0d0d7dd689b6ef
+  ms.openlocfilehash: c38ca01848531ee656242f2cba6a005277dd714f
+  ms.sourcegitcommit: efbf5fcede882e7f333b3c6aa95d2fc30f7adafc
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/13/2022
-  ms.locfileid: "67667458"
+  ms.lasthandoff: 09/14/2022
+  ms.locfileid: "67675510"
 title: Microsoft 365 开发人员计划常见问题解答
 summary: 以下为有关 Microsoft 365 开发人员计划的常见问题解答。
 sections:
@@ -54,7 +54,7 @@ sections:
   - question: >
       即时沙盒的功能是否不同于标准Microsoft 365 E5订阅？
     answer: >
-      不支持用于Exchange Online的邮件流的入站连接器。 如果尝试创建连接器，则会收到以下错误：“执行请求时出错。 对于此服务产品/服务，无法在组织 <tenantID>中创建或更新入站连接器。
+      在Exchange Online中，不支持邮流的入站连接器。 如果尝试创建入站连接器，则会收到以下错误：“执行请求时出错。 对于此服务产品/服务，无法在组织中创建或更新入站连接器。
   - question: >
       订阅还包括对 Azure 的订阅吗？
     answer: "此项优惠不包括 Azure 的订阅。 但是，若要接受免费访问 Azure 服务，您可以 [创建一个免费的 Azure 帐户](https://azure.microsoft.com/free/)。 \n"
