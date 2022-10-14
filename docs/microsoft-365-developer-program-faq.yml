@@ -4,12 +4,12 @@ metadata:
   description: 有关 Microsoft 365 开发人员计划的常见问题解答。
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: c38ca01848531ee656242f2cba6a005277dd714f
-  ms.sourcegitcommit: efbf5fcede882e7f333b3c6aa95d2fc30f7adafc
+  ms.openlocfilehash: 101afeb133b66641733573bc033ef1762162d839
+  ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/14/2022
-  ms.locfileid: "67675510"
+  ms.lasthandoff: 10/13/2022
+  ms.locfileid: "68570598"
 title: Microsoft 365 开发人员计划常见问题解答
 summary: 以下为有关 Microsoft 365 开发人员计划的常见问题解答。
 sections:
@@ -70,7 +70,7 @@ sections:
     answer: "2019 年 4 月，我们转移到了新的模式：你的订阅可以以 90 天为周期永久续订，只要你积极地将此订阅用于开发。 我们认为此模式可确保积极开发解决方案的开发人员拥有可满足其使用期限要求的订阅。 如果你频繁进行开发，订阅将永不过期，订阅会自动延期。 如果你在短期内进行开发，你的订阅过期并被删除，可以注册新的订阅。 \n\n如果你希望拥有长期可用的订阅，建议你获取 Visual Studio Professional 或 Visual Studio Enterprise 订阅。 这些计划包括免费的 Microsoft 365 开发人员订阅，该订阅在 Visual Studio 订阅有效期内可用。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 \n"
   - question: >
       如何确定订阅是否可续订？
-    answer: "我们使用一系列算法和从你在 Microsoft 365 开发人员计划和 Office 365 E3 或 Microsoft 365 E5 开发人员订阅上的活动获得的遥测数据，确定你是否正在积极进行开发。我们定期检查这些信息，以更新你的状态，并确定是否应该延长你的订阅。 \n\n如果你认为我们未能正确跟踪你的开发活动，可以通过仪表板告诉我们。 要在仪表板警报中提交表单，告诉我们你将订阅用于开发的情况，请选择“**告诉我们**”链接，如下图所示。 我们将审阅你的请求，如果你符合延期条件，我们会通知你。 \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
+    answer: "We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Office 365 E3 or Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. \n\n如果你认为我们未能正确跟踪你的开发活动，可以通过仪表板告诉我们。 要在仪表板警报中提交表单，告诉我们你将订阅用于开发的情况，请选择“**告诉我们**”链接，如下图所示。 我们将审阅你的请求，如果你符合延期条件，我们会通知你。 \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
   - question: >
       你们如何定义开发活动？
     answer: "通过开发人员计划和开发人员订阅中你的活动确定你是否正在积极开发，以及是否应将你的订阅延期。 \n\n要详细了解我们跟踪的活动类型，请参阅[使用条款](terms-and-conditions.md)。 \n"
@@ -80,13 +80,13 @@ sections:
   - question: >
       如果我的订阅将要过期，多长时间后会被删除？
     answer: >
-      订阅到期之后，你有 30 天时间迁移任何数据。在此后的 30 天内，仅管理员可访问此订阅，而在第 60 天时，将删除订阅和全部数据。
+      You have 30 days after your subscription expires to migrate any data. For the next 30 days, only the admin will have access to the subscription, and on day 60, the subscription and all data will be deleted.
 
 
       <a name="account-types"> </a>
   - question: >
       如何从 Office 365 E3 订阅迁移到 Microsoft 365 E5 订阅？
-    answer: "目前，仅新的 Microsoft 365 开发人员计划成员能自动获得 Microsoft 365 E5 开发人员订阅。 现有用户将获得迁移到Microsoft 365 E5订阅的选项。 \n\n如果选择迁移到Microsoft 365 E5订阅，可以使用免费工具 [Microsoft Mover](https://mover.io/) 来迁移数据。 另请参阅以下资源：\n\n- [如何将邮箱从一个 Microsoft 365 租户迁移到另一个租户](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [使用 PowerShell 执行分阶段迁移到Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [将内容迁移到 Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)。\n"
+    answer: "目前，仅新的 Microsoft 365 开发人员计划成员能自动获得 Microsoft 365 E5 开发人员订阅。 现有用户将获得迁移到Microsoft 365 E5订阅的选项。 \n\n如果选择迁移到Microsoft 365 E5订阅，可以使用免费工具 [Microsoft Mover](https://mover.io/) 来迁移数据。 另请参阅以下资源：\n\n- [如何将邮箱从一个 Microsoft 365 租户迁移到另一个租户](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [使用 PowerShell 执行分阶段迁移到Office 365](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [将内容迁移到 Microsoft 365](/sharepointmigration/migrate-to-sharepoint-online)。\n"
   - question: >
       是否应选择即时沙盒或可配置沙盒？
     answer: "如果选择即时沙盒，你可以将沙盒配置时间从几天缩短到几秒钟。 Microsoft 365 即时沙盒预先配置了 Microsoft Teams、SharePoint、Outlook 和 Office。 它还包括适用于 24 名测试用户和一名管理员的许可证，以及适用于电脑和 Mac 的最新 Microsoft 365 应用，包括 Power Apps、Power BI、企业移动性 + 安全性、Office 365 高级威胁防护和 Azure Active Directory。\n\n此外，还可获取预安装的示例数据，包括新的 Teams 示例数据包，该数据包模拟小型企业环境，帮助你跨 Microsoft 365 平台构建解决方案。 有关详细信息，请参阅开发人员沙盒示例数据。\n\n如果选择可配置的沙盒，则将具有必须用示例数据填充的空沙盒。 此沙盒最多可能需要两天的预配时间。 可以选择安装开发人员程序仪表板上可用的示例数据包。 可以使用此选项自定义域名。 \n"
@@ -103,7 +103,7 @@ sections:
   - question: >
       Microsoft 365 开发人员订阅是否受 Microsoft 云 (EUDB) 的欧盟数据边界约束？
     answer: >
-      不需要。 免费的 Microsoft 365 开发人员订阅仅受 [条款和条件](terms-and-conditions.md) 约束，而不受 EUDB 承诺的约束。 但是，在预配过程中，可以选择订阅的国家/地区。
+      否。 免费的 Microsoft 365 开发人员订阅仅受 [条款和条件](terms-and-conditions.md) 约束，而不受 EUDB 承诺的约束。 但是，在预配过程中，可以选择订阅的国家/地区。
   - question: "作为 Microsoft 合作伙伴，我可以接收订阅吗？ \n"
     answer: "是的，你可以按照[以下说明操作](microsoft-365-developer-program.md)加入 Microsoft 365 开发人员计划并设置 Microsoft 365 开发人员订阅。 但是，如果已拥有 Visual Studio Enterprise 或 Visual Studio Professional 订阅，也可以享有获取 Microsoft 365 开发人员订阅的权益。 要访问此订阅，请转到 [Visual Studio | 我的权益](https://my.visualstudio.com/benefits). 有关详细信息，请联系 [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)。 \n"
   - question: >
@@ -138,7 +138,7 @@ sections:
       3. 在 **删除配置文件** 确认框中，选择 **删除**。
   - question: >
       支持
-    answer: "如果设置订阅时有问题，请参阅下列支持资源：\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n- [Visual Studio 客户服务](https://www.visualstudio.com/subscriptions/support/)\n"
+    answer: "如果在设置订阅时遇到问题，请参阅以下支持资源：\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n"
   - question: >
       另请参阅
     answer: >-
