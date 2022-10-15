@@ -2,12 +2,12 @@
 title: 使用开发人员订阅来构建 Microsoft 365 解决方案
 description: 使用 Microsoft 365 开发人员订阅来构建想要的解决方案。
 ms.localizationpriority: high
-ms.openlocfilehash: 75dab54d4dada18663eed11b3ed6a937a3d753cd
-ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
-ms.translationtype: HT
+ms.openlocfilehash: 2450b0dee53ca7a8bdaf90beea3cb08f9e2dea36
+ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2022
-ms.locfileid: "66827288"
+ms.lasthandoff: 10/13/2022
+ms.locfileid: "68570591"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>使用开发人员订阅来构建 Microsoft 365 解决方案
 
@@ -49,15 +49,16 @@ Microsoft Teams 是一个基于聊天的工作区，它与用户所使用的应�
 
 ## <a name="office-add-ins"></a>Office 加载项
 
-可以使用 Office 外接程序平台来生成解决方案，通过解决方案扩展 Office 应用程序，并与 Office 文档中的内容进行交互。通过 Office 外接程序，可以使用熟悉的 Web 技术，例如 HTML、CSS 和 JavaScript 来扩展 Word、Excel、PowerPoint、OneNote，Project 和 Outlook，并与其进行交互。解决方案可以跨多个平台在 Office 中运行，包括 Office for Windows、Office Online、Office for Mac 和 Office for iPad。
+You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
 
 若要设置开发环境和创建第一个加载项，请参阅 [Office 加载项快速入门](/office/dev/add-ins/)。
 
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 
-SharePoint 框架 (SPFx) 是页面和 Web 部件模型，不仅完全支持 SharePoint 客户端开发，还可与 SharePoint 数据轻松集成，并支持开放源代码工具。借助 SharePoint Framework，可以在自己首选的开发环境中使用新式 Web 技术和工具，以生成可响应、可移动的高效体验与应用。
+The SharePoint Framework (SPFx) is a page and web part model that provides full support for client-side SharePoint development, easy integration with SharePoint data, and support for open source tooling. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready.
 
-想要通过自动配置沙盒尝试不同的 SharePoint 模板和方案，请安装 SharePoint 示例数据包。如需了解详细信息，请参阅：
+To automatically configure your sandbox to try out different SharePoint templates and scenarios, install the SharePoint sample data pack.
+For more details, see:
 
 - [安装示例数据包](install-sample-packs.md)
 - [设置 SPFx 开发人员订阅](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -76,7 +77,7 @@ SharePoint 加载项为独立式功能，可扩展 SharePoint 网站功能，从
 
 ## <a name="power-apps"></a>Power Apps
 
-Power Apps for Office 365 包含在 Microsoft 365 E5 开发人员订阅许可证中。 这意味着你可以使用[标准连接器](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors)创建和测试不受限制的应用。 若要使用[高级](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors)或自定义连接器以及 Dataverse，则需要另外提供一个许可证。 出于开发和测试目的，可以使用 [Power Apps 开发人员计划](https://powerapps.microsoft.com/developerplan)。 
+Power Apps for Office 365 包含在 Microsoft 365 E5 开发人员订阅许可证中。 这意味着你可以使用[标准连接器](/connectors/connector-reference/connector-reference-standard-connectors)创建和测试不受限制的应用。 若要使用[高级](/connectors/connector-reference/connector-reference-premium-connectors)或自定义连接器以及 Dataverse，则需要另外提供一个许可证。 出于开发和测试目的，可以使用 [Power Apps 开发人员计划](https://powerapps.microsoft.com/developerplan)。 
 
 Power Apps 是一个应用、服务、连接器和数据平台套件，可提供快速应用程序开发环境，以为你的业务需求构建自定义应用。 使用 Power Apps，可以快速生成连接到业务数据的自定义业务应用，无论这些数据是存储在基础数据平台（普通数据服务）上，还是存储在各种联机和本地数据源（SharePoint、Microsoft 365、Dynamics 365、SQL Server 等）中。
 
