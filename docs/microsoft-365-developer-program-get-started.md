@@ -3,16 +3,16 @@ title: 设置 Microsoft 365 开发人员沙盒订阅
 description: 设置 Microsoft 365 开发人员订阅，以构建独立于生产环境的解决方案。
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
-ms.translationtype: HT
+ms.openlocfilehash: f28b37a1d3c9e5ae335695f9a5473feb40404172
+ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889445"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "68667283"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>设置 Microsoft 365 开发人员沙盒订阅 
 
-设置 Microsoft 365 开发人员沙盒，构建独立于生产环境的解决方案。 开发人员计划会员资格（你能够以普通会员身份或通过 Visual Studio 企业加入）包含具有 25 个用户许可证的 Microsoft 365 E5 开发人员沙盒订阅。 许可证有效期为 90 天，仅可用于开发目的（编码解决方案）。 
+设置 Microsoft 365 开发人员沙盒，构建独立于生产环境的解决方案。 开发人员计划会员资格（你能够以普通会员身份或通过 Visual Studio 企业加入）包含具有 25 个用户许可证的 Microsoft 365 E5 开发人员沙盒订阅。 许可证有效期为 90 天，仅可用于开发目的（编码解决方案）。 不支持商业交易，包括购买付费服务。
 
 > [!NOTE] 
 > 若要设置订阅，必须先直接或者通过 Visual Studio Professional 或 Enterprise 订阅（如果你已订阅）[加入 Microsoft 365 开发人员计划](microsoft-365-developer-program.md)。 加入后，即可看到设置订阅的选项。
