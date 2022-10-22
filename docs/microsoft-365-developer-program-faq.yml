@@ -4,12 +4,12 @@ metadata:
   description: 有关 Microsoft 365 开发人员计划的常见问题解答。
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: af9cec4b336ffaf68b3ca1f56d61f7f2776ed987
-  ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+  ms.openlocfilehash: 2a9be84dc3f2457836404caa70ab66999a246721
+  ms.sourcegitcommit: 1828bc081287aefdfa4d8a94d93de9e6046dc8c9
   ms.translationtype: MT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 10/21/2022
-  ms.locfileid: "68667290"
+  ms.locfileid: "68673527"
 title: Microsoft 365 开发人员计划常见问题解答
 summary: 以下为有关 Microsoft 365 开发人员计划的常见问题解答。
 sections:
@@ -55,6 +55,10 @@ sections:
       即时沙盒的功能是否不同于标准Microsoft 365 E5订阅？
     answer: >
       在Exchange Online中，不支持邮流的入站连接器。 如果尝试创建入站连接器，则会收到以下错误：“执行请求时出错。 对于此服务产品/服务，无法在组织中创建或更新入站连接器。
+  - question: >
+      为什么无法登录到开发人员计划仪表板？
+    answer: >
+      我们要求 Microsoft 365 开发人员计划的成员遵守 [条款和条件](terms-and-conditions.md)。 在某些情况下，我们可能不允许违反我们条款的成员登录到程序。
   - question: >
       我无法使用管理员帐户登录到即时沙盒。 我该如何操作？
     answer: "如果在 2022 年 9 月 30 日或之后设置即时沙盒，则使用管理员帐户登录的能力可能已过期。 在这种情况下，我们已预先过期的即时沙盒，你将需要设置一个新的沙盒。 请转到 [Microsoft 365 开发人员计划仪表板](https://aka.ms/DevProgramDashboard)，使用开发人员计划帐户登录，然后选择 **“设置订阅** ”以获取新的即时沙盒。  \n\n设置新的即时沙盒后，请在 14 天内使用管理员帐户登录。\n"
